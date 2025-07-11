@@ -51,7 +51,7 @@
         "answer": "O módulo de Internacionalização oferece suporte a operações de comércio exterior, cálculos de impostos de importação/exportação e documentação alfandegária."
       },
       {
-        "question": "Quais características tem o Lince Shop?",
+        "question": "Quais características têm o Lince Shop?",
         "answer": "O Lince Shop é nossa plataforma de vendas online, com catálogos de produtos, integração com estoque, logística e recursos para promoções."
       },
       {
@@ -285,7 +285,7 @@
       },
       {
         "question": "O que é Dado anonimizado?",
-        "answer": "Dado anonimizado é o dado relativo a titular que não pode ser identificado, usando meios técnicos razoáveis."
+        "answer": "Dado anonimizado é o dado relativo à titular que não pode ser identificado, usando meios técnicos razoáveis."
       },
       {
         "question": "O que é Dado pessoal?",
@@ -952,7 +952,7 @@
       },
       {
         "question": "O que acontece se nenhum filtro for selecionado?",
-        "answer": "O sistema retorna a consulta considerando todos os estados e, por convenção, traz apenas os clientes “Ativos”."
+        "answer": "O sistema retorna à consulta considerando todos os estados e, por convenção, traz apenas os clientes “Ativos”."
       },
       {
         "question": "Como visualizar o gráfico da consulta realizada?",
@@ -989,7 +989,7 @@
     "faqs": [
       {
         "question": "Qual o objetivo da Geração de Ação Programada (Têxtil)?",
-        "answer": "Este relatório deve ser executado pelo DAV para gerar as açõess programadas criadas na tela AV1012 – Estatística do Cliente."
+        "answer": "Este relatório deve ser executado pelo DAV para gerar as ações programadas criadas na tela AV1012 – Estatística do Cliente."
       },
       {
         "question": "Quem deve executar este relatório?",
@@ -1591,7 +1591,7 @@
     "faqs": [
       {
         "question": "Qual o objetivo deste procedimento?",
-        "answer": "Prestar as orientações para realizar a consulta e aprovação das açõess comerciais realizadas nos clientes."
+        "answer": "Prestar as orientações para realizar a consulta e aprovação das ações comerciais realizadas nos clientes."
       },
       {
         "question": "A quem se aplica este procedimento?",
@@ -1829,7 +1829,7 @@
       },
       {
         "question": "Para que serve o ícone Enviar aviso de bloqueio?",
-        "answer": "Abre guia para digitar mensagem de bloqueio e Enviar ao cliente."
+        "answer": "Abre guia para digitar mensagens de bloqueio e Enviar ao cliente."
       }
     ]
   },
@@ -2245,7 +2245,7 @@
         "answer": "Informe o código do produto, clique em Consultar, desmarque/marque a coluna Ativo e clique em Atualizar."
       },
       {
-        "question": "Quais colunas a consulta retorna?",
+        "question": “Quais colunas a consulta retornam?",
         "answer": "Retorna: Data de lançamento, Data de desativação, Situação (ativa/inativa), Usuário e Atividade que gerou a alteração."
       },
       {
@@ -4204,7 +4204,7 @@
       },
       {
         "question": "Como visualizar as colunas extras?",
-        "answer": "Use o filtro Agrupar por para incluir Estado, Filial de Vendas, Representante, VIP ou Mês."
+        "answer": "Use o filtro Agrupar pôr para incluir Estado, Filial de Vendas, Representante, VIP ou Mês."
       },
       {
         "question": "Como funciona o gráfico de ciclo logístico?",
@@ -5916,7 +5916,7 @@
         "answer": "Execute INR003, selecione tipo de ficha, classificação e filial, e clique em Incluir."
       },
       {
-        "question": "Como redifinir fichas?",
+        "question": "Como redefinir fichas?",
         "answer": "Reexecute INR001 para reinicializar e remover todas as fichas (apenas quem iniciou o inventário pode fazer)."
       },
       {
@@ -6067,7 +6067,7 @@
       },
       {
         "question": "Como obter Movimentação de Bens?",
-        "answer": "Use PAR006, informe datas, incl/excão, contas, histórico e escolha Excel."
+        "answer": "Use PAR006, informe datas, incl/exceção, contas, histórico e escolha Excel."
       },
       {
         "question": "Como ver Movimento por Conta?",
@@ -6132,7 +6132,7 @@
       },
       {
         "question": "Como mobilizar bens?",
-        "answer": "Selecione os checkboxes das O.S/parcela e clique em Incluir para abrir formulário de imobilização."
+        "answer": "Selecione os check boxes das O.S/parcela e clique em Incluir para abrir formulário de imobilização."
       },
       {
         "question": "Quais campos preencher na mobilização?",
@@ -6254,7 +6254,7 @@
       },
       {
         "question": "O que faz Tributação do Produto?",
-        "answer": "Lista as regimes de tributação configurados no cadastro de produto."
+        "answer": "Lista os regimes de tributação configurados no cadastro de produto."
       },
       {
         "question": "Quando destacar S.T na NF?",
@@ -7000,7 +7000,7 @@
       },
       {
         "question": "Em que área se aplica?",
-        "answer": "Setor de Contas Contábeis no apuração fiscal."
+        "answer": "Setor de Contas Contábeis na apuração fiscal."
       },
       {
         "question": "Quais são os pré-requisitos?",
@@ -7372,7 +7372,7 @@
       },
       {
         "question": "O que é Totalizador por Linha de Produção? Como criar?",
-        "answer": "Na aba Totalizador por Linha de Produção selecione Linha, Subcaracterística, Totalizador, marque ação Inc e clique em Atualizar."
+        "answer": "Na aba Totalizador por Linha de Produção selecione Linha, Sub-característica, Totalizador, marque ação Inc e clique em Atualizar."
       },
       {
         "question": "Quais relatórios ficam disponíveis após o cadastro?",
@@ -7883,7 +7883,7 @@
       },
       {
         "question": "Para que serve o ícone Enviar Email?",
-        "answer": "Envia informações do cliente por email a destinatários."
+        "answer": "Envia informações do cliente por e-mail a destinatários."
       },
       {
         "question": "Para que serve o ícone Pedidos Reprovados?",
@@ -7926,7 +7926,7 @@
         "answer": "Clique no ícone Próximo Cliente/Filial para alternar."
       },
       {
-        "question": "Como enviar email ao cliente?",
+        "question": "Como enviar e-mail ao cliente?",
         "answer": "No menu Enviar Email, informe endereços e clique em Enviar. Use Adicionar Email para múltiplos."
       },
       {
@@ -8772,7 +8772,7 @@
       },
       {
         "question": "Como definir os parâmetros de consulta?",
-        "answer": "• Campo Consulta: por Código, Nome ou CNPJ • Campo Tipo: selecione o tipo de fornecedor (Banco, Cliente, Fornecedor, etc.) • Preencha o valor correspondente ao parâmetro escolhido"
+        "answer": "• Campo Consulta: por Código, Nome ou CNPJ • Campo Tipo: selecione o tipo de fornecedor (Banco, Cliente, Fornecedor etc.) • Preencha o valor correspondente ao parâmetro escolhido"
       },
       {
         "question": "Como realizar a pesquisa?",
@@ -8858,7 +8858,7 @@
       },
       {
         "question": "Quais são os filtros principais?",
-        "answer": "• Código do Cliente, Nota Fiscal • Situação: Todas, Abertas, Vencidas, À vencer, Pagas, Protestadas, Em cartório • Operação: Simples Desconto, Caução, etc. • Mercado: Nacional, Outros • Filial de Vendas, Classificação, Carteira • Portador, Representante, Tipo de Baixa • Faixa de Valores e Forma de Pagamento"
+        "answer": "• Código do Cliente, Nota Fiscal • Situação: Todas, Abertas, Vencidas, A vencer, Pagas, Protestadas, Em cartório • Operação: Simples Desconto, Caução, etc. • Mercado: Nacional, Outros • Filial de Vendas, Classificação, Carteira • Portador, Representante, Tipo de Baixa • Faixa de Valores e Forma de Pagamento"
       },
       {
         "question": "Quais são os filtros de data?",
@@ -8922,7 +8922,7 @@
       },
       {
         "question": "Como habilitar o ícone Enviar XML?",
-        "answer": "Ative parâmetro EnviaXML em FN610 – Parâmetros Financeiros para exibir o ícone."
+        "answer": "Ative parâmetro Envia XML em FN610 – Parâmetros Financeiros para exibir o ícone."
       },
       {
         "question": "Como voltar para a FN1004?",
