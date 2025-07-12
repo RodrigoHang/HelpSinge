@@ -86,7 +86,8 @@
         "question": "Quais outras soluções a Lince Tech oferece?",
         "answer": "Além do SINGE ERP, oferecemos as soluções Decola, Salle, Syync e Desenvolvimento de Aplicativos."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/introducao.html"
   },
   {
     "title": "Interface Básica SINGE",
@@ -131,7 +132,8 @@
         "question": "Como buscar uma atividade pelo código?",
         "answer": "No campo ao lado do ícone Buscar Atividade, digite o código da atividade para localizá-la rapidamente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/interface_basica_singe_1.html"
   },
   {
     "title": "Configurações Mínimas",
@@ -156,7 +158,8 @@
         "question": "Quais são os requisitos mínimos no cliente?",
         "answer": "Cliente deve ter Windows 8, 8.1 ou 10 (todas as versões), usando apenas os navegadores suportados acima, acessível também via Windows Terminal Server e/ou Thin Client."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/configuracoes_minimas.html"
   },
   {
     "title": "Canais de Atendimento",
@@ -205,7 +208,8 @@
         "question": "Quando o chamado é finalizado?",
         "answer": "Na etapa 06. Atendimento Finalizado, confirme que todas as questões foram resolvidas e encerre o chamado."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/canais_de_atendimento_1.html"
   },
   {
     "title": "LGPD (Lei Geral de Proteção de Dados Pessoais)",
@@ -250,7 +254,8 @@
         "question": "Qual a importância da livre formação da personalidade?",
         "answer": "A LGPD assegura o direito à livre formação da personalidade, protegendo o indivíduo de usos indevidos dos seus dados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/lgpd___lei_geral_de_protecao_de_dados.html"
   },
   {
     "title": "Glossário LGPD",
@@ -423,7 +428,8 @@
         "question": "O que é Uso compartilhado de dados?",
         "answer": "Uso compartilhado de dados é o tratamento compartilhado de bancos de dados entre órgãos públicos ou privados com autorização específica."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/glossario_lgpd_1.html"
   },
   {
     "title": "Acompanhamento da Venda Diária",
@@ -484,7 +490,8 @@
         "question": "Como executar a consulta após parametrizar todos os filtros?",
         "answer": "Depois de ajustar filial, representantes, dias, período e demais filtros, clique no ícone Consultar para que o sistema retorne com as informações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_da_venda_diaria__textil_.html"
   },
   {
     "title": "Acompanhamento de Vendas",
@@ -553,7 +560,8 @@
         "question": "Qual o efeito de selecionar categorias na consulta?",
         "answer": "A consulta apresentará somente os produtos das categorias selecionadas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_de_vendas.html"
   },
   {
     "title": "Acompanhamento Gerente por Representante",
@@ -618,7 +626,8 @@
         "question": "Como os dados são apresentados após a consulta?",
         "answer": "Os dados serão apresentados de acordo com a parametrização disponível no ícone Selecionar Representante/Grupo, que ao ser clicado exibe as opções para seleção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_gerente_por_representante__.html"
   },
   {
     "title": "Análise de Margem de Contribuição",
@@ -679,7 +688,8 @@
         "question": "Como navegar entre os dias do período no gráfico?",
         "answer": "Clique e segure o ícone sobre o gráfico, arrastando para as laterais."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/analise_de_margem_de_contribuicao_.html"
   },
   {
     "title": "Distribuição de Produtos",
@@ -780,7 +790,8 @@
         "question": "Como enviar ou exportar os dados da consulta?",
         "answer": "Use o ícone Enviar E-mail para encaminhar os dados e o ícone Exportar para Excel para gerar o arquivo CSV."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/distribuicao_de_produtos.html"
   },
   {
     "title": "Estatísticas do Cliente (Têxtil)",
@@ -901,7 +912,8 @@
         "question": "Como consultar e aprovar solicitações de ações no nível de grupo?",
         "answer": "Acesse as telas AV685 e AV686 para consultar e aprovar solicitações de ações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/estatisticas_do_cliente__textil_.html"
   },
   {
     "title": "Estatísticas por Mapa",
@@ -982,7 +994,8 @@
         "question": "O que acontece quando mais filtros são adicionados à consulta?",
         "answer": "O mapa fica mais detalhado, trazendo mais informações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/estatisticas_por_mapa___areas_brancas.html"
   },
   {
     "title": "Geração de Ação Programada (Têxtil)",
@@ -1007,7 +1020,8 @@
         "question": "Como incluir o relatório na fila de produção?",
         "answer": "Após informar a data de referência, clique no ícone Incluir para adicioná-lo à fila de produção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/geracao_de_acao_programada__textil_.html"
   },
   {
     "title": "Objetivo por Unidade de Negócio",
@@ -1064,7 +1078,8 @@
         "question": "Como cadastrar os objetivos importados?",
         "answer": "Após importar o arquivo, clique no ícone Cadastrar e, na mensagem de confirmação, pressione OK."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/objetivo_por_unidade_de_negocio_.html"
   },
   {
     "title": "Participação dos Representantes nas Cotas",
@@ -1093,7 +1108,8 @@
         "question": "Como realizar uma consulta de participação nas cotas?",
         "answer": "Informe o Mês/ano (período de referência), selecione a Filial (filial de venda), informe a Quantidade de meses e clique no ícone Consultar para retornar os dados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/participacao_dos_representantes_nas_cotas_.html"
   },
   {
     "title": "Posição das Vendas",
@@ -1138,7 +1154,8 @@
         "question": "Como executar a consulta após parametrizar os campos?",
         "answer": "Clique no ícone Consultar para que o sistema retorne com as informações solicitadas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/posicao_das_vendas_.html"
   },
   {
     "title": "Produtos que o Cliente não Compra (Têxtil)",
@@ -1159,7 +1176,8 @@
         "question": "O que é o campo Ação?",
         "answer": "O campo Ação indica a operação: Inc para incluir e Exc para excluir."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/produtos_que_o_cliente_nao_compra__textil_.html"
   },
   {
     "title": "Avaliação de Carteira de Pedidos (Têxtil)",
@@ -1264,7 +1282,8 @@
         "question": "Como registrar a exclusão do acompanhamento de um pedido?",
         "answer": "Após finalizar, clique no ícone Atualizar para registrar a exclusão do acompanhamento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/avaliacao_de_carteira_de_pedidos__textil_.html"
   },
   {
     "title": "Aprovação de Pedidos (Têxtil)",
@@ -1349,7 +1368,8 @@
         "question": "Como funciona o envio automático de e-mails?",
         "answer": "A tela envia e-mails automaticamente conforme a opção marcada (Gerente Regional, Gerente Nacional ou Diretoria); aguarde a resposta do e-mail para concluir a aprovação."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/aprovacao_de_pedidos__textil_.html"
   },
   {
     "title": "Aprovação Eletrônica de Vendas para Gerentes",
@@ -1482,7 +1502,8 @@
         "question": "Como consultar o histórico de aprovações?",
         "answer": "Clique no ícone Abrir Histórico para exibir pop-up com todos os dados de aprovação (quem, quando, data/hora)."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/aprovacao_eletronica_de_vendas_para_gerentes.html"
   },
   {
     "title": "Aprovação Eletrônica de Vendas (Plástico)",
@@ -1539,7 +1560,8 @@
         "question": "Como aprovar um pedido na tela AV801?",
         "answer": "Selecione Aprovar?, escolha Aprovado por, marque Aviso para gerente e/ou Aviso Aprovação Representante se desejar observações, e clique em Aprovar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/aprovacao_eletronica_de_vendas__plastico_.html"
   },
   {
     "title": "Consulta as Pendências e Vendas (Têxtil)",
@@ -1584,7 +1606,8 @@
         "question": "O que acontece ao clicar no número da pendência?",
         "answer": "O sistema direciona para a tela AV602 – Pendência de Vendas para detalhamento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_as_pendencias_e_vendas__textil_.html"
   },
   {
     "title": "Consulta e Aprovação de Ações Comerciais (Têxtil)",
@@ -1645,7 +1668,8 @@
         "question": "Para que serve o ícone Situação?",
         "answer": "Utilizado para consultar o fluxo de aprovação e o andamento das aprovações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_e_aprovacao_de_acoes_comerciais__textil_.html"
   },
   {
     "title": "Consulta Estatística de Pré Sugestão de Pedidos",
@@ -1674,7 +1698,8 @@
         "question": "Como o sistema carrega os períodos ao acessar a tela?",
         "answer": "Ao acessar, o sistema carrega automaticamente os dados do mês anterior e do mês atual."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_estatistica_de_pre_sugestao_de_pedidos__textil_.html"
   },
   {
     "title": "Consultas de Pedidos, Notas Fiscais e Carteira de Pedidos",
@@ -1831,7 +1856,8 @@
         "question": "Para que serve o ícone Enviar aviso de bloqueio?",
         "answer": "Abre guia para digitar mensagem de bloqueio e Enviar ao cliente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consultas_de_pedidos__notas_fiscais_e_carteira_de_pedidos__textil_.html"
   },
   {
     "title": "Digitação de Pedidos (Comercial Têxtil)",
@@ -2020,7 +2046,8 @@
         "question": "Para que serve o ícone Imprimir Etiquetas?",
         "answer": "Gera e imprime etiqueta de identificação do cliente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/digitacao_de_pedidos___comercial__textil_.html"
   },
   {
     "title": "Sugestão de Pedidos (Plástico)",
@@ -2065,7 +2092,8 @@
         "question": "Como cancelar um item durante a sugestão?",
         "answer": "Marque o item, selecione o motivo de cancelamento e clique no ícone de Cancelamento; confirme no alerta para efetivar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/sugestao_de_pedidos__plastico_.html"
   },
   {
     "title": "Visualização e Importação de Pedidos E.D.I.",
@@ -2110,7 +2138,8 @@
         "question": "Como excluir pedidos/arquivos E.D.I.?",
         "answer": "Selecione itens e clique em Excluir Pedidos Selecionados, podendo excluir de forma independente ou unificada."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/visualizacao_e_importacao_de_pedidos_e_d_i_.html"
   },
   {
     "title": "Administração dos Atendimentos",
@@ -2211,7 +2240,8 @@
         "question": "Como gerar o arquivo Excel (.CSV)?",
         "answer": "Após consultar com ou sem filtros, clique no ícone Excel (.CSV) no topo; o download será iniciado automaticamente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/administracao_dos_atendimentos.html"
   },
   {
     "title": "Ativar/Desativar Cor de Produto para Venda",
@@ -2256,7 +2286,8 @@
         "question": "Como filtrar apenas as cores ativas?",
         "answer": "Utilize a opção de filtro para mostrar somente cores ativas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/ativar_desativar_cor_de_produto_para_venda__textil_.html"
   },
   {
     "title": "Clientes Ativos – Tele Vendas",
@@ -2325,7 +2356,8 @@
         "question": "Para que serve o ícone Voltar?",
         "answer": "Retorna da tela de consulta de pedidos (AV1003) para CC515."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/clientes_ativos___tele_vendas__textil_.html"
   },
   {
     "title": "Clientes que Ignoram a Política Financeira",
@@ -2390,7 +2422,8 @@
         "question": "Como exportar dados detalhados por pedido?",
         "answer": "Clique em Excel Detalhado por Pedido, informe o período na janela e confirme."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/clientes_que_ignoram_a_politica_financeira.html"
   },
   {
     "title": "Cadastros Comerciais",
@@ -2459,7 +2492,8 @@
         "question": "Como criar ou alterar Tabela de Preços?",
         "answer": "Na tela AV518, informe Nome, Produto, Cor, Preço, selecione Ação (Inc/Alt/Exc) e clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastros_comerciais__textil_.html"
   },
   {
     "title": "Cadastro de Representante (Têxtil)",
@@ -2544,7 +2578,8 @@
         "question": "Como incluir/substituir cidades atendidas?",
         "answer": "Para Área Integral, execute AVR005, informe Obrigatório 1, Obrigatório 2, marque Opcional 3: Sim e clique em Incluir. Para Divisão de Área, use AVR078 para obter CEPs e depois AVR005, preenchendo ainda Repetitivo 4 com o CEP básico antes de clicar em Incluir."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_representante__textil_.html"
   },
   {
     "title": "Consulta Alterações no Cadastro de Clientes (Têxtil)",
@@ -2589,7 +2624,8 @@
         "question": "Como rastrear todas as modificações?",
         "answer": "A visão de histórico apresenta a data, o responsável e o detalhamento das alterações, permitindo rastrear cada modificação."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_alteracoes_no_cadastro_de_clientes__textil_.html"
   },
   {
     "title": "Desativação de Produtos (Têxtil)",
@@ -2650,7 +2686,8 @@
         "question": "Como usar a tela AV907?",
         "answer": "Em AV907 – Produto Itens a Transferir, informe o Cor Destino para troca e use a opção Excluir quando o cliente não aceitar troca, clicando em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/desativacao_de_produtos__textil_.html"
   },
   {
     "title": "Relacionar CNPJ ao CNPJ Principal (Têxtil)",
@@ -2707,7 +2744,8 @@
         "question": "Como alterar o nome do CNPJ principal?",
         "answer": "Edite o campo Nome do CNPJ principal e clique em Altera Nome de Grupo para validar a mudança."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relacionar_cnpj_ao_cnpj_principal__textil_.html"
   },
   {
     "title": "Cancelamento de Notas Fiscais (Têxtil)",
@@ -2752,7 +2790,8 @@
         "question": "Posso cancelar se a mercadoria já circulou?",
         "answer": "Não. A NF-e só pode ser cancelada se não houver circulação da mercadoria ou prestação de serviço."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cancelamento_de_notas_fiscais__textil_.html"
   },
   {
     "title": "Carta de Correção Eletrônica (Têxtil)",
@@ -2805,7 +2844,8 @@
         "question": "O que ocorre após clicar em Atualizar?",
         "answer": "O sistema grava a Carta de Correção e torna-a disponível para consulta e envio."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/carta_de_correcao_eletronica__textil_.html"
   },
   {
     "title": "Comercialização (Têxtil)",
@@ -2918,7 +2958,8 @@
         "question": "Como vincular itens a uma campanha?",
         "answer": "Selecione a Campanha, defina Tipo e Código, informe % CashBack e clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/comercializacao__textil_.html"
   },
   {
     "title": "Consulta de Notas",
@@ -3035,7 +3076,8 @@
         "question": "Quais sub-abas estão disponíveis para visualização segmentada?",
         "answer": "Produtos; Total Produtos; Impostos; Logística; Duplicatas; Contabilização; Transporte."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_de_notas.html"
   },
   {
     "title": "Consulta Nota Fiscal com Crítica",
@@ -3076,7 +3118,8 @@
         "question": "Como retornar à lista de críticas?",
         "answer": "Em qualquer tela aberta a partir da AV533, clique no ícone Voltar para regressar à listagem de críticas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_nota_fiscal_com_critica_.html"
   },
   {
     "title": "Emissão de Etiquetas de Caixas de Fios Industriais",
@@ -3113,7 +3156,8 @@
         "question": "Como emitir efetivamente as etiquetas?",
         "answer": "Após consultar e configurar impressora e volumes, clique em Imprimir para enviar as etiquetas ao equipamento selecionado."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/emissao_de_etiquetas_de_caixas_de_fios_industriais__textil_.html"
   },
   {
     "title": "Emissão de Nota Fiscal de Serviço Eletrônica (NFS-e)",
@@ -3258,7 +3302,8 @@
         "question": "Como incluir adendo em contrato recorrente?",
         "answer": "Em AV1033, clique em Próximo Adendo, preencha período, valores e parâmetros, então feche para tornar vigente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/emissao_de_nota_fiscal_de_servico_eletronica___nfs_e.html"
   },
   {
     "title": "Emissão de Notas Fiscais - Devolução Integral (Têxtil)",
@@ -3323,7 +3368,8 @@
         "question": "Onde consultar o resultado das notas geradas?",
         "answer": "Verifique na tela de consulta de notas fiscais (por exemplo AV1006) ou relatórios de devolução."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/emissao_de_notas_fiscais___devolucao_integral__textil_.html"
   },
   {
     "title": "Faturamento de Fios Domésticos (Têxtil)",
@@ -3416,7 +3462,8 @@
         "question": "Como imprimir os relatórios gerados?",
         "answer": "Use a tela GS526 – Impressão de Relatórios para emissão física ou PDF."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/faturamento_de_fios_domesticos__textil_.html"
   },
   {
     "title": "Motivo Cancelamento de PDF/NFE",
@@ -3497,7 +3544,8 @@
         "question": "Como reaproveitar códigos removidos?",
         "answer": "Após exclusão, preencha o Código de uma lacuna disponível (ex.: 33) para novo cadastro."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/motivo_cancelamento_de_pdf_nfe.html"
   },
   {
     "title": "Relatório: Cria Devolução do Refaturamento (Têxtil)",
@@ -3550,7 +3598,8 @@
         "question": "Como imprimir o relatório?",
         "answer": "Use a tela GS526 – Impressão de Relatórios para gerar saída em papel ou PDF."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relatorio___cria_devolucao_do_refaturamento__textil_.html"
   },
   {
     "title": "Vencimento Pré Fixado",
@@ -3615,7 +3664,8 @@
         "question": "É possível cadastrar mais de um vencimento por cliente?",
         "answer": "Normalmente, apenas um pré-fixado por cliente deve ser mantido; múltiplos geram conflito."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/vencimento_pre_fixado_.html"
   },
   {
     "title": "Cancelamento da ARD (Têxtil)",
@@ -3688,7 +3738,8 @@
         "question": "Posso estornar ARD antiga?",
         "answer": "Sim, desde que o registro ainda exista e o usuário tenha permissão para acessar DV515/DV518."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cancelamento_da_ard__textil_.html"
   },
   {
     "title": "Digitação e Aprovação de ARDs (Têxtil)",
@@ -3773,7 +3824,8 @@
         "question": "O que fazer após aprovação da ARD?",
         "answer": "Encaminhar NFs ao Contábil para impostos e ao Financeiro para ressarcimento ao cliente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/digitacao_da_ard__textil_.html"
   },
   {
     "title": "Setores para Aprovação da ARD (Têxtil)",
@@ -3838,7 +3890,8 @@
         "question": "É possível automatizar notificações de aprovação?",
         "answer": "Notificações dependem de configurações de e-mail do sistema, não diretamente em DV501."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/setores_para_aprovacao_da_ard__textil_.html"
   },
   {
     "title": "Digitação de Pedidos (Call Center)",
@@ -4023,7 +4076,8 @@
         "question": "Como enviar catálogos eletrônicos ao cliente?",
         "answer": "Clique em Envio de Catálogo, selecione catálogos na lista e confirme o envio para o e-mail do cliente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/digitacao_de_pedidos___call_center__textil_.html"
   },
   {
     "title": "Estatísticas do Call Center",
@@ -4068,7 +4122,8 @@
         "question": "Preciso de um fluxograma deste processo; onde encontro?",
         "answer": "Não existe fluxograma; utilize as descrições e abas para navegar pelo sistema."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/estatisticas_do_call_center_.html"
   },
   {
     "title": "Bloqueio de Ordens de Embarque",
@@ -4113,7 +4168,8 @@
         "question": "O que mudam as opções de Situação?",
         "answer": "Cada opção reflete um estado da ordem: “Inconsistente para Custos”, “Valor do Frete Alto”, “Pedido Antecipado”, etc., permitindo controlar bloqueios específicos."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/bloqueio_de_ordens_de_embarque.html"
   },
   {
     "title": "Consulta Ciclo Logístico",
@@ -4230,7 +4286,8 @@
         "question": "Como gerar o Excel com os resultados?",
         "answer": "Clique no ícone Exportar para Excel no topo da página; o download do CSV será iniciado automaticamente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_ciclo_logistico.html"
   },
   {
     "title": "Consulta Estatísticas de Embarque (AV774)",
@@ -4275,7 +4332,8 @@
         "question": "O que aparece após a consulta?",
         "answer": "Será mostrada uma tabela com as estatísticas solicitadas, segmentadas conforme o detalhamento escolhido, e totais consolidados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_estatisticas_de_embarque.html"
   },
   {
     "title": "Integrações Link de Pagamentos (AV990)",
@@ -4316,7 +4374,8 @@
         "question": "Existe alguma dica de uso?",
         "answer": "Se precisar navegar por várias páginas de resultados, use o ícone Próximo."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/integracoes_de_link_de_pagamentos__plastico_.html"
   },
   {
     "title": "Manutenção e Gerenciamento de Arquivos (AV1025)",
@@ -4373,7 +4432,8 @@
         "question": "Como vejo o conteúdo de uma pasta?",
         "answer": "Clique no nome da pasta para navegar para dentro dela."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/manutencao_e_gerenciamento_de_arquivos_.html"
   },
   {
     "title": "Cadastramento Texto VF (CT604)",
@@ -4418,7 +4478,8 @@
         "question": "Preciso alterar a descrição comercial—posso?",
         "answer": "Não: CT604 altera apenas o texto para o VF (funcionário), não a descrição principal."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastramento_texto_vf.html"
   },
   {
     "title": "GS512 — Elementos de Itens Codificados (Têxtil)",
@@ -4459,7 +4520,8 @@
         "question": "O que fazer se a NF não estiver paga?",
         "answer": "Verifique o status do título e, se necessário, aguarde o pagamento antes de tentar liberar a devolução."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/gs512___elementos_de_itens_codificados__textil_.html"
   },
   {
     "title": "Parâmetros de Vendas (AV513)",
@@ -4512,7 +4574,8 @@
         "question": "O que acontece após atualizar?",
         "answer": "O sistema passa a usar os novos parâmetros imediatamente para todas as operações de vendas e faturamento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/parametros_de_vendas.html"
   },
   {
     "title": "Apuração Contábil",
@@ -4597,7 +4660,8 @@
         "question": "Como imprimir ou salvar relatórios?",
         "answer": "Em GS526 selecione ação (Imprimir/Salvar/PDF) e clique em Consultar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/apuracao_contabil.html"
   },
   {
     "title": "Apuração de ICMS",
@@ -4726,7 +4790,8 @@
         "question": "Como cadastrar e configurar CFOPs?",
         "answer": "Clique no ícone de Configurações, adicione ou remova CFOPs e salve para efetivar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/apuracao_de_icms.html"
   },
   {
     "title": "Bens de Patrimônio para CIAP",
@@ -4771,7 +4836,8 @@
         "question": "Como cadastrar uma nota fiscal de bem?",
         "answer": "Informe Código do Bem, escolha Emitente NF, informe Fornecedor/Cliente, NF, Série, Emissão, Entrada/Saída, Mod. Sped, Chave e, se aplicável, O.S.; depois clique em Incluir."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/bens_de_patrimonio_para_ciap.html"
   },
   {
     "title": "Carga do Valor do ICMS para CIAP",
@@ -4808,7 +4874,8 @@
         "question": "Como aprovar o relatório após incluí-lo?",
         "answer": "Após a inclusão, clique em Aprovar para liberar a execução pelo sistema."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/carga_do_valor_do_icms_para_ciap.html"
   },
   {
     "title": "Cadastro de Apropriação do Próximo Exercício",
@@ -4857,7 +4924,8 @@
         "question": "Como consultar apropriações feitas?",
         "answer": "Na tela CG586, selecione Consulta por (Todos/Pendente/Aprovados), Despesa e Centro de Custo, depois clique em Consultar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_apropriacao_do_proximo_exercicio.html"
   },
   {
     "title": "Cadastro de Centros de Custo",
@@ -4902,7 +4970,8 @@
         "question": "Como filtrar centros de custo inativos?",
         "answer": "Clique no ícone Filtrar Inativos para exibir apenas os inativos."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_centros_de_custo.html"
   },
   {
     "title": "Cadastro de Contas Contábeis",
@@ -4963,7 +5032,8 @@
         "question": "Como percorrer registros existentes?",
         "answer": "Clique nos ícones Próximo ou Anterior."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_contas_contabeis.html"
   },
   {
     "title": "Cadastro de Contas de Despesa de Viagem",
@@ -5000,7 +5070,8 @@
         "question": "Existem exemplos práticos?",
         "answer": "Sim. • Viagens–Adiantamento, histórico “Baixa” • Viagens–Hotel, histórico “Hotel” • Viagens–Passagem, histórico “Passagem”"
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_contas_de_despesas_de_viagens.html"
   },
   {
     "title": "Contas do SIF",
@@ -5041,7 +5112,8 @@
         "question": "Como criar composição de contas do SIF?",
         "answer": "Selecione o Código da conta, escolha Fator (1 ou 2), informe Classificação, defina ação como Inc, selecione Sinal (+/-) e clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_contas_e_composicao_das_contas_do_sif_.html"
   },
   {
     "title": "Cadastro de Fornecedores para Controle de NF",
@@ -5094,7 +5166,8 @@
         "question": "O que indica o Indicativo de Justificativa?",
         "answer": "Que existe uma justificativa registrada para a nota não emitida."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_forncedor_para_controle_de_notas_fiscais_.html"
   },
   {
     "title": "Natureza de Operação para Faturamento",
@@ -5135,7 +5208,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para percorrer as naturezas cadastradas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_natureza_contabil_para_faturamento_1.html"
   },
   {
     "title": "Cadastro de Natureza de Operações",
@@ -5212,7 +5286,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para percorrer as naturezas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_natureza_de_operacoes.html"
   },
   {
     "title": "Cadastro de Parâmetros Contábeis",
@@ -5257,7 +5332,8 @@
         "question": "Como compor demonstrações contábeis?",
         "answer": "Em CG529, informe Conta Contábil, selecione Sinal, marque ação como Alt e clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_parametros_contabeis.html"
   },
   {
     "title": "Conciliação Bancária",
@@ -5330,7 +5406,8 @@
         "question": "Como exportar o resumo?",
         "answer": "Clique em Exportar CSV para baixar o resumo em formato Excel."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/conciliacao_bancaria_.html"
   },
   {
     "title": "Composição das Demonstrações Contábeis",
@@ -5367,7 +5444,8 @@
         "question": "Como registrar a parametrização?",
         "answer": "Após preencher, clique em Atualizar para salvar as configurações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/composicao_das_demonstracoes_contabeis__.html"
   },
   {
     "title": "CGR012: Balanço e Demonstrações de Resultado",
@@ -5404,7 +5482,8 @@
         "question": "Para que serve o campo Opcional 7?",
         "answer": "Alterar a forma de apresentação do cabeçalho do relatório."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cgr012___balanco_e_demonstracoes_de_resultado_.html"
   },
   {
     "title": "Consulta Natureza de Operação Não Utilizada",
@@ -5441,7 +5520,8 @@
         "question": "Onde visualizar o procedimento de cadastro?",
         "answer": "Clique em aqui para ver o passo a passo de cadastro de natureza de operação."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_natureza_de_operacao____nao_utilizada_.html"
   },
   {
     "title": "Consulta Saldo de Proposta de Investimento",
@@ -5494,7 +5574,8 @@
         "question": "O que acontece ao clicar no número da proposta?",
         "answer": "Redireciona para a tela CG583 – Aprovação da Proposta de Investimento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_saldo_de_proposta_de_investimento__.html"
   },
   {
     "title": "Cria Relação Usuário Centro de Custo",
@@ -5551,7 +5632,8 @@
         "question": "Para que serve “Exceção”?",
         "answer": "Ignora a conta informada, aplicando a relação a todas as outras contas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cria_relacao_usuario_centro_de_custo_.html"
   },
   {
     "title": "EFD REINF",
@@ -5624,7 +5706,8 @@
         "question": "Como navegar e atualizar sem recarregar filtros?",
         "answer": "Use Retornar/Avançar Listagem para mudar abas e Consultar para reexecutar busca na tela atual."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/efd_reinf.html"
   },
   {
     "title": "Informações de Crédito para DECIP",
@@ -5665,7 +5748,8 @@
         "question": "O que é o FUMDES?",
         "answer": "Recurso para fomentar ensino superior e desenvolvimento regional conforme a Constituição de SC."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/informacoes_de_credito_para_decip.html"
   },
   {
     "title": "Manutenção das Informações da DIME",
@@ -5730,7 +5814,8 @@
         "question": "Por que alguns campos ficam em branco?",
         "answer": "O sistema calcula automaticamente esses campos, não sendo necessário preenchê-los."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/manutencao_das_informacoes_da_dime.html"
   },
   {
     "title": "CGR051: Emissão da DIME",
@@ -5755,7 +5840,8 @@
         "question": "Quando ocorre o envio do arquivo?",
         "answer": "O envio acontece sempre em junho, referindo-se ao exercício anterior."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cgr051___emissao_da_dime.html"
   },
   {
     "title": "CGR051: Emissão da DIME - Mensal",
@@ -5776,7 +5862,8 @@
         "question": "Quando devo executar o relatório?",
         "answer": "Execute mensalmente, de acordo com o calendário de emissão da DIME."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cgr051___emissao_da_dime___mensal.html"
   },
   {
     "title": "Notas com ST e DIFAL",
@@ -5829,7 +5916,8 @@
         "question": "Como consultar a fila de execução?",
         "answer": "Clique aqui para ver o passo a passo de consulta à fila de relatórios."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/notas_com_st_e_difal.html"
   },
   {
     "title": "Parâmetros para Escrituração Fiscal",
@@ -5882,7 +5970,8 @@
         "question": "Como salvar as configurações?",
         "answer": "Após preencher todos os campos, clique em Atualizar para salvar as informações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/_parametros_para_escrituracao_fiscal_.html"
   },
   {
     "title": "Inventário",
@@ -5967,7 +6056,8 @@
         "question": "Como consultar inventário por produto, cor ou período?",
         "answer": "Use o ícone Consultar Inventários em IN500 e pressione Enter após parametrizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/inventario_.html"
   },
   {
     "title": "Lista Acertos de Inventário",
@@ -6016,7 +6106,8 @@
         "question": "O que faz o filtro \"Agrupar no Nacional\"?",
         "answer": "Agrupa os resultados por classificação nacional no relatório."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/lista_acertos_de_inventario_.html"
   },
   {
     "title": "Movimentação de Bens",
@@ -6101,7 +6192,8 @@
         "question": "Como gerar créditos de PIS/COFINS?",
         "answer": "Use PAR018, informe datas, importação, conta, bens e centros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/movimentacao_de_bens.html"
   },
   {
     "title": "Ocorrência de Patrimônio",
@@ -6158,7 +6250,8 @@
         "question": "Como retornar à visão anterior?",
         "answer": "Clique no ícone Voltar para voltar à lista de ocorrências."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/ocorrencia_de_patrimonio_.html"
   },
   {
     "title": "Solicita Ficha para Coletores",
@@ -6223,7 +6316,8 @@
         "question": "Como acompanhar a fila de impressão?",
         "answer": "Use o relatório de fila de relatórios (ex: GS1005) para verificar status de IN519."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/solicita_ficha_para_coletores_.html"
   },
   {
     "title": "Natureza Contábil para Faturamento",
@@ -6296,7 +6390,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar e visualizar outras parametrizações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_da_natureza_contabil_para_faturamento_.html"
   },
   {
     "title": "Propostas de Investimento",
@@ -6389,7 +6484,8 @@
         "question": "O que faz a Diretoria Financeira?",
         "answer": "Decide sobre empréstimos ou fluxo de caixa, informando parcelas e juros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/propostas_de_investimento_.html"
   },
   {
     "title": "Registro de Eventos REINF",
@@ -6450,7 +6546,8 @@
         "question": "Onde visualizar status?",
         "answer": "Na coluna Situação da Transmissão de cada evento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/registro_de_eventos_do_reinf.html"
   },
   {
     "title": "Falhas na Transmissão REINF",
@@ -6483,7 +6580,8 @@
         "question": "Erro 495 – SSL Certificate Error?",
         "answer": "O certificado digital está vencido ou fora da cadeia. Contate a TI para validar a cadeia de confiança."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/falhas_na_transmissao_do_arquivo_reinf_.html"
   },
   {
     "title": "Pré-requisitos Eventos REINF",
@@ -6524,7 +6622,8 @@
         "question": "E para R4099?",
         "answer": "Precisa do R1000 e de pelo menos um evento R-4000 (R-4010 a R-4080) — fecha/reabre a série R-4000."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/pre_requisito_para_envio_dos_eventos_.html"
   },
   {
     "title": "Relaciona Atividade x Contas Contábeis",
@@ -6589,7 +6688,8 @@
         "question": "Como atualizar um relacionamento existente?",
         "answer": "Edite os campos desejados, marque ação Alt e clique em Salvar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relaciona_atividade_x_contas_contabeis_.html"
   },
   {
     "title": "Ajustes de Valores E-Lalur B",
@@ -6642,7 +6742,8 @@
         "question": "Como confirmar que o ajuste foi salvo?",
         "answer": "Após Atualizar, o sistema retorna mensagem de sucesso e exibe o registro na listagem."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/ajustes_de_valores_e__lalur_b.html"
   },
   {
     "title": "Base de Cálculo IR/CS E-Lalur A",
@@ -6679,7 +6780,8 @@
         "question": "Como saber se a aprovação foi bem-sucedida?",
         "answer": "Após confirmar, o sistema exibe mensagem de sucesso e bloqueia novas alterações nos registros aprovados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/base_de_calculo_ir_cs_e_lalur_a.html"
   },
   {
     "title": "Cadastro das Adições/Exclusões E-Lalur",
@@ -6744,7 +6846,8 @@
         "question": "Como finalizar o cadastro?",
         "answer": "Após preencher todos os campos, clique em Atualizar para salvar o registro."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_das_adicoes_exclusoes_e_lalur.html"
   },
   {
     "title": "Demonstrativos do IR/CSLL/Contribuições",
@@ -6797,7 +6900,8 @@
         "question": "Como atualizar ou excluir?",
         "answer": "Use os ícones Atualizar ou Excluir para manter o cadastro alinhado."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/demonstrativo_do_ir_csll_contribuicao.html"
   },
   {
     "title": "Digitação Valores sem Conta E-Lalur",
@@ -6838,7 +6942,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para percorrer os lançamentos já cadastrados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/digitacao_dos_valores_em_conta_e_lalur.html"
   },
   {
     "title": "Doações em Campanhas Eleitorais",
@@ -6887,7 +6992,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para percorrer os registros cadastrados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/doacoes_em_campanhas_eleitorais.html"
   },
   {
     "title": "Identificação Sócio Titular",
@@ -6936,7 +7042,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para percorrer todos os cadastros existentes."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/identificacao_socio_proprietario.html"
   },
   {
     "title": "Parâmetros SPED ECF",
@@ -6989,7 +7096,8 @@
         "question": "Como consultar e navegar?",
         "answer": "Use os ícones Consultar e Próximo para buscar e percorrer registros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/parametros_para_sped_ecf.html"
   },
   {
     "title": "Participação em Coligadas Controladas",
@@ -7046,7 +7154,8 @@
         "question": "Como concluir o cadastro?",
         "answer": "Após preencher todos os campos, clicar em Incluir para gravar o registro."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/participacao_em_coligadas_controladas_.html"
   },
   {
     "title": "Cadastro de Natureza Contábil para Faturamento",
@@ -7163,7 +7272,8 @@
         "question": "O que é a Tela TC501?",
         "answer": "Tela de Cadastro de Produtos, onde o campo Código da Tributação define o ICMS de Importação (4% para importados)."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_natureza_contabil_para_faturamento_2.html"
   },
   {
     "title": "Cadastro de Contas e Bens",
@@ -7252,7 +7362,8 @@
         "question": "O que é o campo “Parcela Principal”?",
         "answer": "Indica se a parcela é a principal do bem, diferenciando lançamentos principais e adicionais."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_contas_e_bens.html"
   },
   {
     "title": "Gráfico de Rentabilidade",
@@ -7309,7 +7420,8 @@
         "question": "Como remover filtros?",
         "answer": "Clique no ícone Limpar para remover todos os filtros aplicados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/grafico_de_rentabilidade_.html"
   },
   {
     "title": "Cadastro e Consulta da Rotina de Custos",
@@ -7378,7 +7490,8 @@
         "question": "Quais relatórios ficam disponíveis após o cadastro?",
         "answer": "CIR032 – Gera valor de movimentação; CIR033 – Calcula custos (base CIR035); CIR035 – Lançamento da valorização de estoques."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_e_consulta_da_rotina_de_custos.html"
   },
   {
     "title": "CIR032: Gerar Movimento para Cálculo de Custo",
@@ -7411,7 +7524,8 @@
         "question": "Como enviar para produção?",
         "answer": "Após preencher os campos obrigatórios, clique no ícone Incluir para encaminhar o relatório para a fila de produção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cir032___gerar_movimento_para_calculo_de_custo.html"
   },
   {
     "title": "CIR033: Cálculo de Custos",
@@ -7436,7 +7550,8 @@
         "question": "Como enviar o relatório para produção?",
         "answer": "Após preencher os campos, clique no ícone Incluir para encaminhar o relatório para a fila de produção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cir033___calculo_de_custos.html"
   },
   {
     "title": "CIR035: Valorização do Estoque",
@@ -7481,7 +7596,8 @@
         "question": "Como enviar o relatório para produção?",
         "answer": "Após preencher os campos, clique no ícone Incluir para encaminhar o relatório para a fila de produção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cir035___valorizacao_do_estoque.html"
   },
   {
     "title": "Simulação de Rentabilidade por Filial",
@@ -7522,7 +7638,8 @@
         "question": "Como enviar a consulta para o sistema?",
         "answer": "Após informar o mês/ano, clique no ícone Consultar para retornar com os dados solicitados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/_simulacao_de_rentabilidade_por_filial.html"
   },
   {
     "title": "Produtos em Elaboração",
@@ -7587,7 +7704,8 @@
         "question": "O que fica registrado no log?",
         "answer": "Quantidade, data, hora e forma/atividade que gerou o registro."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/produtos_em_elaboracao_.html"
   },
   {
     "title": "Relação Conta/Centro de Custos",
@@ -7628,7 +7746,8 @@
         "question": "Como criar a relação conta/centro?",
         "answer": "Informe o número da conta de patrimônio, selecione o centro de custos, marque ação Inc, depois informe os códigos de Depreciação, Deduções de PIS e COFINS, e clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relacao_conta_centro_de_custos_.html"
   },
   {
     "title": "Valores para Custos",
@@ -7681,7 +7800,8 @@
         "question": "O que faz o botão “Gera Valores pelo Tipo de Custo da Conta”?",
         "answer": "Disponível para empresas do tipo Círculo, gera valores conforme o tipo de custo da conta."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/valores_para_custos.html"
   },
   {
     "title": "Valores para Simulação de Preços",
@@ -7726,7 +7846,8 @@
         "question": "Qual formato de data devo usar?",
         "answer": "Use o formato ddmmaaaa, sem barras."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/valores_para_simulacao_de_precos.html"
   },
   {
     "title": "Abatimento e Estornos de Recebimento",
@@ -7783,7 +7904,8 @@
         "question": "Como consultar tipo de material?",
         "answer": "Na tela FN550 – Duplicatas a Pagar, busque pelo código da transportadora."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/abatimento_e_estornos_de_recebimento.html"
   },
   {
     "title": "Acompanhamento da Liquidez Diária",
@@ -7844,7 +7966,8 @@
         "question": "Como mudar a forma de visualização?",
         "answer": "Selecione uma opção no menu de Contas a Pagar para alterar a visualização."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_da_liquidez_diaria_.html"
   },
   {
     "title": "Análise de Crédito - Cliente",
@@ -7965,7 +8088,8 @@
         "question": "Como consultar/buscar no cadastro?",
         "answer": "Informe Código do Cliente e clique em Consultar. Use Próximo para navegar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/analise_de_credito___cliente.html"
   },
   {
     "title": "Análise de Pedidos",
@@ -8034,7 +8158,8 @@
         "question": "Como visualizar todos os pedidos que compõem um total?",
         "answer": "Após a consulta, clique em Visualizar Pedidos para ver os pedidos detalhados que originam cada valor."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/analise_de_pedidos_.html"
   },
   {
     "title": "Autorização de Pagamentos",
@@ -8083,7 +8208,8 @@
         "question": "Como imprimir ou gerar arquivo?",
         "answer": "Acesse GS526 – Impressão de Relatórios para imprimir ou gerar arquivo."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/autorizacao_de_pagamentos.html"
   },
   {
     "title": "Avisos de Lançamentos a Representante",
@@ -8120,7 +8246,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar ao próximo aviso."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/avisos_de_lancamentos_a_representante.html"
   },
   {
     "title": "Baixa de Duplicata de Verbas",
@@ -8161,7 +8288,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/baixa_de_duplicata_de_verbas.html"
   },
   {
     "title": "Baixa de Duplicatas C.A.P",
@@ -8218,7 +8346,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar entre registros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/baixa_de_duplicatas_c_a_p.html"
   },
   {
     "title": "Baixa de Duplicatas Fornecedor",
@@ -8263,7 +8392,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/baixa_de_duplicatas_fornecedor.html"
   },
   {
     "title": "Cadastro Bancário",
@@ -8316,7 +8446,8 @@
         "question": "Como salvar parâmetros eletrônicos?",
         "answer": "• Após preencher, clique em Incluir ou Atualizar. • Para excluir, use Excluir. • Para consultar, informe o código do banco e clique em Consultar. • Navegue com Próximo."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_bancario.html"
   },
   {
     "title": "Cadastro de Empréstimos e Financiamentos",
@@ -8369,7 +8500,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_emprestimos_e_financiamentos_.html"
   },
   {
     "title": "Parâmetros CAP/CAR/Comissões",
@@ -8418,7 +8550,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo Registro para avançar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_parametros_de_contas_a_pagar__contas_a_receber_e_comissoes.html"
   },
   {
     "title": "Parâmetros Financeiros",
@@ -8459,7 +8592,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar ao próximo conjunto de parâmetros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_parametros_financeiros.html"
   },
   {
     "title": "Cadastro de Tipos de Contas",
@@ -8508,7 +8642,8 @@
         "question": "Como os grupos organizam os tipos de conta?",
         "answer": "Cada Grupo (Matéria Prima, Serviços, Folha, etc.) agrupa tipos específicos para facilitar relatórios e análises."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_tipos_de_contas.html"
   },
   {
     "title": "Cobrança Eletrônica",
@@ -8549,7 +8684,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cobranca_eletronica_.html"
   },
   {
     "title": "Comissão por Duplicata",
@@ -8598,7 +8734,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar entre duplicatas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/comissao_por_duplicata.html"
   },
   {
     "title": "Consulta, Baixa e Prorrogação de Duplicatas",
@@ -8667,7 +8804,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar entre registros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta__baixa_e_prorrogacao_de_duplicatas.html"
   },
   {
     "title": "Alteração de Duplicatas em Cobrança",
@@ -8708,7 +8846,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar e revisar outras duplicatas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/alteracao_de_duplicatas_em_cobranca.html"
   },
   {
     "title": "Abatimentos e Alteração de Portador",
@@ -8745,7 +8884,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/_concessao_de_abatimentos_e_alteracao_do_portador.html"
   },
   {
     "title": "Duplicatas a Pagar por Fornecedor",
@@ -8790,7 +8930,8 @@
         "question": "Como navegar entre registros?",
         "answer": "Use o ícone Próximo para avançar entre fornecedores ou duplicatas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_duplicatas_a_pagar_por_fornecedor_.html"
   },
   {
     "title": "Fluxo de Caixa Moeda Estrangeira",
@@ -8831,7 +8972,8 @@
         "question": "Como navegar entre períodos?",
         "answer": "Use o ícone Próximo para avançar ou retornar registros anteriores."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_fluxo_de_caixa___moeda_estrangeira.html"
   },
   {
     "title": "Consulta de Duplicatas Clientes",
@@ -8928,7 +9070,8 @@
         "question": "Como voltar para a FN1004?",
         "answer": "Clique no ícone Voltar na guia de Consulta Duplicata."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_de_duplicatas___cliente_.html"
   },
   {
     "title": "Consulta Inadimplência por Faixas",
@@ -8985,7 +9128,8 @@
         "question": "Essa pesquisa por período fornece detalhes de vencimento?",
         "answer": "Não—é uma visão genérica, sem detalhamento de cada vencimento."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_inadimplencia_por_faixas.html"
   },
   {
     "title": "Dossiê de Cobrança",
@@ -9046,7 +9190,8 @@
         "question": "O que exibe a aba “Duplicatas em aberto”?",
         "answer": "Mostra as duplicatas em aberto e vencidas, com ícone de alerta para vencimentos."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/dossie_de_cobranca.html"
   },
   {
     "title": "Duplicatas a Pagar - Fornecedor",
@@ -9123,7 +9268,8 @@
         "question": "Como retornar à visão anterior?",
         "answer": "Clique no ícone Voltar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/duplicatas_a_pagar___fornecedor_.html"
   },
   {
     "title": "Aprovação de Relatório de Viagens",
@@ -9280,7 +9426,8 @@
         "question": "Como consultar ou imprimir o relatório?",
         "answer": "Acesse tela GS1026 – Impressão de Relatórios para gerar PDF ou compartilhar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/aprovacao_de_relatorio_de_viagens_.html"
   },
   {
     "title": "Consulta Fluxo de Aprovação de Viagem",
@@ -9313,7 +9460,8 @@
         "question": "O que acontece após atualizar?",
         "answer": "O sistema altera ou remove o aprovador para todos os usuários afetados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_fluxo_de_aprovacao_de_viagem.html"
   },
   {
     "title": "Cadastro de Fluxo de Aprovação de Viagens",
@@ -9374,7 +9522,8 @@
         "question": "É necessário criar fluxos para cada tipo?",
         "answer": "Sim—um para cada Tipo de Aprovação, tanto nacional quanto internacional."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_fluxo_de_aprovacao_de_viagens_.html"
   },
   {
     "title": "Cadastro de Viagens Internacionais e Nacionais",
@@ -9431,7 +9580,8 @@
         "question": "O que acontece se não houver adiantamento?",
         "answer": "Não entra no fluxo de aprovação e só gera relatório FN670 para reembolso pós-viagem."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_viagens_internacionais_e_nacionais_.html"
   },
   {
     "title": "Consulta Solicitação de Viagem",
@@ -9456,7 +9606,8 @@
         "question": "Como executar a consulta?",
         "answer": "Informe ao menos um filtro e clique no ícone Consultar para exibir os resultados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_solicitacao_de_viagem.html"
   },
   {
     "title": "Relatório de Reembolso de Despesas",
@@ -9529,7 +9680,8 @@
         "question": "Como iniciar um novo relatório?",
         "answer": "Clique em Recomeçar para limpar a tela."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relatorio_de_reembolso_de_despesas.html"
   },
   {
     "title": "Relatório de Viagem",
@@ -9598,7 +9750,8 @@
         "question": "Como consultar histórico de aprovação?",
         "answer": "Clique em Consultar Histórico de Aprovação para visualizar o histórico."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relatorio_de_viagem.html"
   },
   {
     "title": "Consulta Relatório de Viagem",
@@ -9651,7 +9804,8 @@
         "question": "Como executar a consulta?",
         "answer": "Informe ao menos um filtro e clique em Consultar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_relatorio_de_viagem.html"
   },
   {
     "title": "Inclusão de Duplicatas C.A.P",
@@ -9696,7 +9850,8 @@
         "question": "Como gerar múltiplas parcelas?",
         "answer": "• Clique em Multiplicar Parcelas; • Na guia, defina Dia do Vencimento, tipo (Fixo/Período/Diário) e Quantidade de Parcelas; • Marque Apenas Dias Úteis ou Copiar Observações se necessário; • Clique em Aprovar e depois em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/inclusao_de_duplicatas_c_a_p.html"
   },
   {
     "title": "Inclusão e Estorno de Aviso de Lançamentos",
@@ -9737,7 +9892,8 @@
         "question": "Como estornar um aviso de lançamento?",
         "answer": "• Informe o número do aviso ou busque; • Preencha representante, data, valor; • Marque Estorno aviso lançamento (será crédito); • Informe total ou parcial, conta e centro de custo; • Clique em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/inclusao_e_estorno_de_aviso_de_lancamentos_.html"
   },
   {
     "title": "Movimentação de Moeda Estrangeira",
@@ -9774,7 +9930,8 @@
         "question": "Como acompanho as transferências?",
         "answer": "Utilize a tela FN711 – Fluxo de Caixa Moeda Estrangeira."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/movimentacao_de_moeda_estrangeira.html"
   },
   {
     "title": "Consulta e Contabilização de Duplicatas Belluno",
@@ -9823,7 +9980,8 @@
         "question": "Como acompanhar as movimentações?",
         "answer": "Use a tela FN711 – Fluxo de Caixa Moeda Estrangeira para relatórios de moeda; para Belluno, retorne à FN1009."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_e_contabilizacao_de_duplicatas__belluno_.html"
   },
   {
     "title": "Varredura DDA",
@@ -9860,7 +10018,8 @@
         "question": "Qual a tela de agendamento de pagamento?",
         "answer": "Tela FN620 – Agendamento de Pagamento com A.P., onde os dados importados são processados."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/varredura_dda.html"
   },
   {
     "title": "Velocidade do Estoque",
@@ -9933,7 +10092,8 @@
         "question": "Como retornar à visão anterior em contas a receber?",
         "answer": "Clique em Voltar ou em Consultar Estoque para ir à FG2002."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/velocidade_do_estoque.html"
   },
   {
     "title": "Custo Transporte Precificação Revenda",
@@ -9986,7 +10146,8 @@
         "question": "Como finalizar o processo?",
         "answer": "Após todas as etapas e anexos, clique em Atualizar e aguarde aprovação nos fluxos definidos."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/custo_transporte_precificacao_revenda.html"
   },
   {
     "title": "Pedido de Importação Peças e Equipamentos",
@@ -10027,7 +10188,8 @@
         "question": "Como importar para Proforma?",
         "answer": "Clique em Exportar Informações IP509 para preencher a tela IP509."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/pedido_de_importacao___pecas_e_equipamentos_.html"
   },
   {
     "title": "Cadastro de Produtos",
@@ -10060,7 +10222,8 @@
         "question": "Como incluir foto do produto?",
         "answer": "Clique no ícone de imagem, selecione o arquivo e confirme a inclusão."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_produtos_.html"
   },
   {
     "title": "Acompanhamento da Produção",
@@ -10097,7 +10260,8 @@
         "question": "Como utilizar a atividade?",
         "answer": "• Preencha filtros; • Clique em Consultar; • Veja totalizadores de objetivo do mês e do dia; • Use Moldes 24 Horas para detalhes de troca de moldes."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_da_producao.html"
   },
   {
     "title": "Objetivos Mensais",
@@ -10150,7 +10314,8 @@
         "question": "Onde ficam os totalizadores?",
         "answer": "No topo da tela, veja o total mensal de Produção e Facção."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/objetivos_mensais.html"
   },
   {
     "title": "Apontamento de Controle de Cartas CEP",
@@ -10191,7 +10356,8 @@
         "question": "Como acessar um teste na consulta?",
         "answer": "Clique sobre o Nr. Inspeção para abrir os detalhes."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/apontamento_de_controle_de_cartas_cep.html"
   },
   {
     "title": "Relação de Balanças com Centro de Custos",
@@ -10232,7 +10398,8 @@
         "question": "Como navegar quando faltam campos?",
         "answer": "Use o ícone Próximo para continuar a listagem ou incluir novos registros."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/relacao_de_balancas_com_centro_de_custos.html"
   },
   {
     "title": "Cadastro de Banners",
@@ -10277,7 +10444,8 @@
         "question": "Como ativar ou desativar?",
         "answer": "• Clique em Atualizar ao lado do banner; • Defina Data Início/Fim e Ativo: Sim/Não; • Clique em Atualizar no topo e em Atualizar no APP."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_banners_.html"
   },
   {
     "title": "Cadastro de Job",
@@ -10310,7 +10478,8 @@
         "question": "Como consultar um Job cadastrado?",
         "answer": "• Informe o Número do Job; • Clique em Consultar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_job__.html"
   },
   {
     "title": "Cadastro de Orientadoras",
@@ -10355,7 +10524,8 @@
         "question": "Como adicionar foto da orientadora?",
         "answer": "• Clique em Adicionar Foto; • Selecione o arquivo e confirme; • Clique em Alterar para salvar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_orientadoras.html"
   },
   {
     "title": "Consulta de Funcionários/Terceiros Sintéticos",
@@ -10392,7 +10562,8 @@
         "question": "Como extrair os dados para Excel?",
         "answer": "Após filtrar e consultar, clique no botão .CSV no topo para exportar os resultados para um arquivo Excel."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_de_funcionarios_terceiros_sinteticos_.html"
   },
   {
     "title": "Controle de Ponto",
@@ -10453,7 +10624,8 @@
         "question": "Como bloquear horários flexíveis?",
         "answer": "Na Aba Horário, marque ou desmarque o campo Horário flexível para permitir ou não ajustes fora do padrão."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/controle_de_ponto.html"
   },
   {
     "title": "Ocorrências nas Marcações",
@@ -10490,7 +10662,8 @@
         "question": "O que acontece após “Atualizar”?",
         "answer": "Surge uma mensagem de advertência; clique em OK para validar a correção e enviar ao RH."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/ocorrencias_nas_marcacoes___gestor_.html"
   },
   {
     "title": "Cadastro de Locações e Horários",
@@ -10527,7 +10700,8 @@
         "question": "Como liberar horários gerais?",
         "answer": "Marque Todos os Dias e clique em Atualizar para liberar em massa."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_locacoes_e_horarios.html"
   },
   {
     "title": "Cadastro de Locações Fixas",
@@ -10560,7 +10734,8 @@
         "question": "Como confirmar o cadastro?",
         "answer": "Verifique na atividade AREL ou em data correspondente se a locação fixa aparece corretamente."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_locacoes_fixas.html"
   },
   {
     "title": "Indisponibilidade de Locação AREL",
@@ -10593,7 +10768,8 @@
         "question": "Como visualizar no sistema AREL?",
         "answer": "A indisponibilidade aparecerá como ocupada e mostrará o motivo durante o período cadastrado."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/indisponibilidade_de_locacao_arel.html"
   },
   {
     "title": "Reservas Temporárias",
@@ -10630,7 +10806,8 @@
         "question": "Como visualizar no sistema AREL?",
         "answer": "• Laranja: reserva temporária pendente; • Laranja com “Confirmado”: reserva efetivada."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/reservas_temporarias.html"
   },
   {
     "title": "Consulta Controles Estacionamento",
@@ -10663,7 +10840,8 @@
         "question": "Que dados são exibidos?",
         "answer": "• Situação: DISPONÍVEL, EM USO ou BLOQUEADO; • Telefone/Ramal do usuário; • Setor e Partição; • Data de Entrega e Devolução; • Observações cadastradas; • Aba Veículos: Placa, Tipo, Modelo."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/consulta_controles_estacionamento.html"
   },
   {
     "title": "Usuários Estacionamento",
@@ -10704,7 +10882,8 @@
         "question": "Como imprimir e voltar do Termo?",
         "answer": "• Use o ícone impressão para print; • Use Voltar para retornar à RH661."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/usuarios_estacionamento.html"
   },
   {
     "title": "Cadastro das Fichas de Inspeção",
@@ -10729,7 +10908,8 @@
         "question": "Como imprimir a ficha?",
         "answer": "Marque Imprimir antes de clicar em Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_das_fichas_de_inspecao.html"
   },
   {
     "title": "Cadastro de Não Fornecedores",
@@ -10770,7 +10950,8 @@
         "question": "Como transferir para fornecedor?",
         "answer": "1. Cadastre o código na SU501; 2. Na SU555, localize o não fornecedor; 3. Em Ação, escolha TRANSF.P/FORNEC., informe o Cadastro novo e Atualizar."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_nao_fornecedores.html"
   },
   {
     "title": "Tipos de Inspeção por Família/Categoria",
@@ -10807,7 +10988,8 @@
         "question": "Como visualizar inspeções já cadastradas?",
         "answer": "Após inclusão, use Consultar para ver as inspeções de Produto e Material cadastradas."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cadastro_de_tipos_de_inspecao_.html"
   },
   {
     "title": "Cancela Chegada de Materiais",
@@ -10848,7 +11030,8 @@
         "question": "Como verificar detalhes do pedido?",
         "answer": "Após Consultar, veja os campos de Dt. Chegada, Hora, Usuário e Nota Fiscal."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/cancela_chegada_de_materiais.html"
   },
   {
     "title": "Inspeções Pendentes",
@@ -10909,7 +11092,8 @@
         "question": "Como consultar testes já aprovados?",
         "answer": "Fichas aprovadas exibem ícones extras: Consultar Teste, Reemitir Ficha, Reconsiderar, Info Teste."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/inspecoes_pendentes_.html"
   },
   {
     "title": "Parametrização da Ficha de Inspeção",
@@ -10950,7 +11134,8 @@
         "question": "Como validar inclusões ou alterações?",
         "answer": "Clique em Atualizar após preencher todos os campos para gravar alterações."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/parametrizacao_da_ficha_de_inspecao_.html"
   },
   {
     "title": "Solicitação de Compras",
@@ -10995,7 +11180,8 @@
         "question": "Como excluir uma solicitação?",
         "answer": "Marque Ação = Exc e clique em Atualizar. Só funciona no nível Solicitante antes da aprovação."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/solicitacoes_de_compra.html"
   },
   {
     "title": "Gestão de Estoque Revenda BR470",
@@ -11032,7 +11218,8 @@
         "question": "Como gerar o arquivo Excel?",
         "answer": "Após aplicar filtros e consultar, clique em Extrair para Excel para baixar o CSV."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/acompanhamento_de_gestao_de_estoque_revenda_br470.html"
   },
   {
     "title": "Liberação de Periféricos",
@@ -11069,6 +11256,7 @@
         "question": "Por que posso não liberar?",
         "answer": "• Se o periférico não estiver Fechado no Estoque; • Se não houver Ordem atrelada (CP505)."
       }
-    ]
+    ],
+    "link": "https://helpsinge.lince.com.br/liberacao_de_perifericos.html"
   }
 ]
