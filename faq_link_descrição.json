@@ -1,0 +1,135 @@
+[
+  {
+    "description": "Introdução",
+    "link": "Antes de mais nada, agradecemos a confiança depositada no nosso software de gestão empresarial SINGE ERP.
+
+Fundada em 24 de Junho de 1980, a Lince Tech, holding das empresas Circulo e Plasvale, centraliza o desenvolvimento dos sistemas corporativos, aplicativos e soluções de TI do grupo. Após décadas de atendimento, estamos crescendo e expandindo nossos horizontes, potencializando negócios de classe mundial através de pessoas, tecnologia e inovação.
+
+A Lince Tech nasceu com o objetivo de oferecer um produto de qualidade, altamente personalizável, tendo em conta todas as especificidades que cada empresa possa necessitar. O SINGE ERP está em constante evolução para melhor atender às demandas mais atuais em termos de gestão e compliance, integrando de forma inteligente todas as áreas da empresa, com velocidade, segurança e preços competitivos.
+
+Descrição da solução
+SISTEMA MULTIEMPRESAS, COM VISÕES CONSOLIDADAS A NÍVEL DE GRUPO/CONGLOMERADO
+SISTEMA 100% WEB
+SISTEMA TOTALMENTE INTEGRADO
+SISTEMA ALTAMENTE CUSTOMIZADO PARA OS CLIENTES
+SISTEMA EM COMPLIANCE COM AS BOAS PRÁTICAS DE MERCADO
+Nossos diferenciais segundo nossos clientes
+Comercial
+Gestão e controle de pedidos, faturamento, devoluções e exportações. Permite o controle de verbas, brindes e bonificações.
+
+Contabilidade
+Processos contábeis integrados, geração de demonstrativos, apuração de impostos e conciliação bancária.
+
+Custos
+Orçamento por centros de custo, controle de desvios, alçada de aprovação de compras, preço médio, razão, relatórios de viagem, entre outros.
+
+Financeiro
+Contas a receber, contas a pagar, fluxo de caixa, planejamento operacional, gestão de investimentos e muito mais.
+
+Gestão da Produção
+Planejamento de produção, controle de perdas, gerenciamento de terceiros, manutenção preventiva automática e acompanhamento de ordens de produção.
+
+Gestão da Qualidade
+Controle de qualidade e processos, auditorias internas, registros de não conformidade e aplicação de melhorias contínuas.
+
+Internacionalização
+Suporte a operações de comércio exterior, cálculos de impostos de importação/exportação e documentação alfandegária.
+
+Lince Shop
+Plataforma de vendas online, catálogos de produtos, integração com estoque e logística, além de recursos para promoções e campanhas.
+
+Manutenção
+Emissão de ordens de serviço, acompanhamento de manutenções preventivas e corretivas, controle de recursos e histórico detalhado.
+
+Marketing
+Gestão de campanhas, análise de métricas, automação de marketing e integração com as áreas de vendas e comercial.
+
+Plano Operacional
+Definição de metas e estratégias, acompanhamento de resultados, indicadores de desempenho e planejamento tático.
+
+RH
+Administração de pessoal, gestão de talentos, medicina do trabalho, avaliações de desempenho e feedback, além de controle de ponto.
+
+Suprimentos
+Gestão de compras, controle de estoque, recebimentos, relacionamento com fornecedores e administração de contratos.
+
+Suporte
+Central de atendimento ao cliente, registro de chamados, SLA, base de conhecimento e monitoramento de incidentes para garantir agilidade na resolução.
+
+Transporte Logística
+Gestão de rotas, controle de embarques, rastreabilidade, WMS, inventários rotativos e mapas de ocupação para otimizar toda a cadeia logística.
+
+Saiba mais sobre nossas soluções
+Explore outras soluções que a Lince Tech oferece para potencializar seus negócios:
+
+Decola
+Salle
+Syunc
+Desenvolvimento de Aplicativos"
+  },
+  {
+    "description": "Interface Básica SINGE",
+    "link": "Guia rápido para organizar pastas, itens e atividades no sistema.
+
+Abertura de Chamados
+Abertura de Chamados
+Atividade Inicial
+Atividade Inicial
+Organizar Pastas
+Organizar Pastas
+Organizar Itens
+Organizar Ítens
+Montar Menu
+Montar Menu
+Help
+Help
+Intranet
+Intranet
+Sair do Sistema
+Sair do Sistema
+Venda Funcionário
+Venda Funcionário
+Seleção Multi‑Empresas
+Seleção Multi‑Empresas
+Buscar Atividade
+Buscar Atividade
+Abertura de Chamados Abertura de Chamados
+Este ícone é responsável por direcionar para a atividade de abertura de chamados (Atividade DS500).
+
+Atividade Inicial Atividade Inicial
+Neste ícone é possível definir uma atividade para ser a inicial. Sempre que iniciar o SINGE, esta atividade escolhida será a primeira tela. Clicando sobre o ícone Atividade Inicial, uma guia será exibida para que a atividade possa ser incluída. Após a inclusão da atividade, basta clicar sobre o ícone  Atualizar.
+
+Organizar Pastas Organizar Pastas
+Ícone responsável pela organização das pastas do Menu. É possível incluir, renomear ou excluir uma pasta. Para incluir basta informar o nome no campo Pasta, e clicar sobre o ícone Incluir Incluir.
+
+Para alterar um nome de pasta, basta após a alteração, clicar sobre o ícone Atualizar Atualizar.
+
+Para excluir uma pasta, basta selecionar a pasta que deseja excluir, e clicar sobre o ícone Excluir Excluir.
+
+Clicando sobre o ícone Fechar Fechar, a tela de manutenção de pastas será finalizada.
+
+Organizar Itens Organizar Ítens
+Ícone responsável por organizar os ítens dentro do Menu. Para incluir uma atividade no diretório principal do menu, é necessário selecionar a pasta (amarela) e então clicar sobre o ícone Organizar Itens. Para adicionar em outra pasta, basta selecionar a pasta desejada e clicar em Organizar Itens.
+
+Montar Menu Montar Menu
+Este ícone é responsável por montar seu Menu personalizado. Clicando sobre o ícone Montar Menu, será exibida uma nova guia, onde o módulo deve ser informado. Após informar o módulo, basta clicar sobre o ícone Aprovar, para que o Menu seja criado com as funcionalidades do módulo.
+
+Help Help
+Este ícone é responsável por direcionar para a página de ajuda do SINGE. Você será direcionado para a página de ajuda correspondente à atividade que estiver utilizando no momento.
+
+Venda Funcionário Venda Funcionário
+Este ícone é responsável por direcionar para o e-commerce de venda aos funcionários.
+
+Intranet Intranet
+Este ícone é responsável por direcionar o usuário para a Intranet da sua empresa.
+
+Sair do Sistema Sair do Sistema
+Este ícone é responsável por encerrar a sessão e sair do sistema.
+
+Seleção Multi‑Empresas Seleção Multi‑Empresas
+Neste ícone, conseguimos selecionar as empresas/filiais cadastradas no sistema.
+
+Buscar Atividade Buscar Atividade
+Neste local, é possível buscar por uma atividade, digitando o código da atividade."
+  }
+]
