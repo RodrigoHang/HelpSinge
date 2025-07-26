@@ -89,7 +89,7 @@
       },
       {
         "question": "Nossa equipe de infraestrutura precisa das especificações para o servidor de aplicação. Quais são os requisitos para o servidor do SINGE?",
-        "answer": "Para o servidor de aplicação, os requisitos mínimos são:"
+        "answer": "Para o servidor de aplicação, os requisitos mínimos são: Sistema Operacional: Windows Server 2008 R2 Standard ou superior. Banco de Dados: SQL Server 2008 R2 ou superior. Processador: Intel Xeon Silver 4110 2.10GHz ou superior (ou 16 vCores em VM). Memória RAM: 20GB. HD: 400GB de espaço. Serviços Adicionais: Apache Tomcat 9.0.37 e Java JVM 11.0.8 ou superior."
       }
     ]
   },
@@ -155,7 +155,7 @@
     "faqs": [
       {
         "question": "Nos treinamentos sobre LGPD, sempre citam \"Titular\", \"Controlador\" e \"Operador\". Qual a diferença entre eles?",
-        "answer": "De forma simples:"
+        "answer": "De forma simples: Titular: É a pessoa física a quem os dados se referem (por exemplo, o cliente ou o funcionário). Controlador: É a empresa (ou pessoa) que toma as decisões sobre como os dados serão utilizados. Operador: É a empresa (ou pessoa) que realiza o processamento dos dados em nome do Controlador, seguindo suas instruções."
       },
       {
         "question": "Qual a diferença entre um \"dado pessoal\" e um \"dado pessoal sensível\"?",
@@ -179,7 +179,7 @@
       },
       {
         "question": "Se um cliente solicitar a exclusão de seus dados, o que o termo \"eliminação\" significa no contexto da LGPD?",
-        "answer": "\"Eliminação\" é a exclusão definitiva de um dado ou de um conjunto de dados que estão armazenados em um banco de dados, independentemente do método utilizado para apagar a informação."
+        "answer": "\"Eliminação\" é a exclusão definitiva de um dado ou de um conjunto de dados que estão armazenados em um banco de dados, independentemente do método utilizado para apagar a informação. ---> COMERCIAL"
       }
     ]
   },
@@ -483,7 +483,7 @@
       },
       {
         "question": "Para que serve cada um dos três filtros obrigatórios da tela AV942?",
-        "answer": "Na tela AV942, os filtros funcionam da seguinte forma:"
+        "answer": "Na tela AV942, os filtros funcionam da seguinte forma: Mês/ano: Define o período de referência que servirá como ponto de partida para a sua consulta. Filial: Permite que você selecione a filial de vendas específica cujos representantes deseja analisar. Quantidade de meses: Determina a duração do período que será analisado a partir da data de referência informada."
       }
     ]
   },
@@ -625,7 +625,7 @@
       },
       {
         "question": "Qual a diferença entre os dois ícones de \"Aprovar\" na tela AV950?",
-        "answer": "Na tela AV950, a aprovação pode ser feita de duas formas:"
+        "answer": "Na tela AV950, a aprovação pode ser feita de duas formas: Aprovação em Lote: Na tela inicial, marcando os pedidos e usando o ícone \"Aprovar Pedidos\" no topo. Aprovação Individual: Abrindo o pedido e clicando no ícone \"Aprovar\" dentro dos detalhes. Este método é usado quando você precisa analisar os itens, verificar valores ou adicionar observações antes de aprovar."
       },
       {
         "question": "Como posso ver as observações que a equipe comercial ou outros gerentes deixaram em um pedido na tela AV950?",
@@ -753,10 +753,6 @@
     "title": "Consultas de Pedidos, Notas Fiscais e Carteira de Pedidos (Têxtil)",
     "content": "https://helpsinge.lince.com.br/consultas_de_pedidos__notas_fiscais_e_carteira_de_pedidos__textil_.html",
     "faqs": [
-      {
-        "question": "Preciso consultar todos os pedidos de um cliente, mas só tenho o nome dele. Como faço a busca na tela AV1003?",
-        "answer": "Na tela AV1003 – Consulta de Pedidos, clique no ícone \"Pesquisa por Cliente\". Uma nova guia se abrirá para que você possa buscar o cliente pelo nome. Ao selecioná-lo, todos os pedidos dele serão carregados na tela principal."
-      },
       {
         "question": "Na tela AV1003, como faço para alterar a data de embarque ou o prazo de um pedido?",
         "answer": "Após consultar o pedido na tela AV1003, acesse a aba \"Dados Gerais\" e clique no ícone \"Manutenção dos Dados Gerais\". Uma nova guia se abrirá, permitindo que você edite essas e outras informações do pedido. Lembre-se de clicar em \"Atualizar\" para salvar."
@@ -1033,7 +1029,7 @@
     "faqs": [
       {
         "question": "Qual é a sequência correta de telas e relatórios para cadastrar um novo representante e deixá-lo totalmente configurado para vender?",
-        "answer": "A sequência correta é:"
+        "answer": "A sequência correta é: Primeiro, cadastre os dados principais do representante na tela AV504 – Cadastro de Representante. Em seguida, acesse a tela AV564 – Comissão Representantes para definir a comissão padrão dele. Se houver comissões especiais para certas categorias de produtos, execute o relatório AVR084. Por fim, para vincular os clientes/cidades à carteira dele, execute o relatório AVR005 – Substituição Representante nos Clientes."
       },
       {
         "question": "No cadastro do representante (AV504), como sei se devo preencher o campo '% IRRF s/com.' e qual valor usar?",
@@ -1097,7 +1093,7 @@
       },
       {
         "question": "Um produto desativado tem estoque negativo em alguns pedidos. Qual é o fluxo para tratar essa situação?",
-        "answer": "O fluxo é o seguinte:"
+        "answer": "O fluxo é o seguinte: Acesse a tela AV822 – Avaliação Cancelamento Produto. Ela mostrará os produtos desativados com estoque negativo. Na AV822, avalie cada caso. Se a quantidade negativa for grande, selecione a opção \"AV919 - Seleção Produto/ Itens a Transferir\" e clique em \"Atualizar\". Isso enviará o produto para a tela AV919 – Seleção Produto/Itens a Transferir, onde você selecionará o item para troca. Por fim, na tela AV907 – Produto Itens a Transferir, você informará a \"Cor Destino\" pela qual o item com estoque negativo será trocado no pedido."
       },
       {
         "question": "O que devo fazer na tela AV822 se um produto com estoque negativo estiver no \"crítico\"?",
@@ -1197,7 +1193,7 @@
       },
       {
         "question": "Quero criar uma campanha de cashback. Qual é o processo completo na tela AV855?",
-        "answer": "A criação de uma campanha na tela AV855 é feita em duas etapas:"
+        "answer": "A criação de uma campanha na tela AV855 é feita em duas etapas: Primeiro, na aba \"Campanha Cashback\", você cria a campanha principal, definindo seu nome, data de início, data de fim e se ela está ativa. Depois, na aba \"Campanha Cashback Produtos\", você seleciona a campanha que acabou de criar e adiciona os produtos, categorias ou grupos de clientes VIP que participarão, definindo a porcentagem de cashback para cada um."
       },
       {
         "question": "Criei um \"Grupo de Comercialização\" por engano na tela AV855. Como faço para excluí-lo completamente?",
@@ -1335,7 +1331,7 @@
       },
       {
         "question": "Tenho o número da ARD e preciso emitir a nota de devolução. Quais parâmetros devo preencher no relatório AVR030?",
-        "answer": "No relatório AVR030, você deve configurar os seguintes campos para uma devolução integral:"
+        "answer": "No relatório AVR030, você deve configurar os seguintes campos para uma devolução integral: No campo \"Obrigatório 1\", informe a opção 1 (Emissão Normal). No campo \"Repetitivo 7\", informe o número da ARD correspondente. Por fim, clique no ícone \"Incluir\" para colocar o relatório na fila de produção."
       },
       {
         "question": "Posso agendar a execução do relatório AVR030 para uma data ou horário específico?",
@@ -1349,7 +1345,7 @@
     "faqs": [
       {
         "question": "Qual é a sequência correta de relatórios que devo executar para realizar o faturamento dos pedidos de fios domésticos?",
-        "answer": "O processo de faturamento é uma sequência de quatro relatórios que devem ser executados em ordem:"
+        "answer": "O processo de faturamento é uma sequência de quatro relatórios que devem ser executados em ordem: AVR009 – Pré-Sugestão Automática AVR056 – Sugestão de Pedidos Automática AVR029 – Ordens de Embarque AVR030 – Notas Fiscais"
       },
       {
         "question": "Qual é o objetivo do primeiro relatório, o AVR009, e qual é o parâmetro mais importante que devo definir?",
@@ -1487,7 +1483,7 @@
       },
       {
         "question": "Como funciona o processo para uma devolução integral, onde o cliente devolve todos os itens da nota?",
-        "answer": "O processo é feito em etapas:"
+        "answer": "O processo é feito em etapas: Primeiro, crie a ARD na tela DV502, mas desta vez marcando o parâmetro \"Devolução: Total\". Em seguida, acesse a tela DV513 – Devolução Integral, informe o número da ARD, consulte e clique em \"Atualizar\". Por fim, para gerar a nota fiscal de entrada da devolução, execute o relatório AVR030 – Notas Fiscais, informando o número da ARD no campo \"Repetitivo 7\"."
       },
       {
         "question": "O cliente não quer uma devolução, mas sim um refaturamento. Onde eu indico isso no sistema?",
@@ -1499,7 +1495,7 @@
       },
       {
         "question": "Na tela DV529, o que significam os círculos coloridos ao lado dos produtos?",
-        "answer": "As cores são um guia visual:"
+        "answer": "As cores são um guia visual: Círculo Roxo: O sistema sugeriu a referência do produto com base na nota fiscal. Círculo Vermelho: O campo do produto está vazio. Círculo Vermelho (tremendo): Há um erro, como uma cor repetida ou desativada. Círculo Verde: O produto e a cor foram lançados corretamente."
       }
     ]
   },
@@ -1695,11 +1691,11 @@
       },
       {
         "question": "Preciso fazer o upload de um vídeo. Qual o passo a passo completo na tela AV1025, desde a criação da pasta até o envio do arquivo?",
-        "answer": "O processo na tela AV1025 é feito em duas etapas:"
+        "answer": "O processo na tela AV1025 é feito em duas etapas: Criar a Pasta: Clique no ícone \"Adicionar Pasta\", dê um nome para ela, defina o nível de segurança (Público, Restrito ou Privado) e salve. Adicionar o Arquivo: Clique no nome da pasta que você acabou de criar para entrar nela. Em seguida, clique em \"Adicionar arquivos\", preencha o nome, a segurança e a classificação do arquivo, e use o botão \"Anexar Arquivo\" para selecioná-lo do seu computador."
       },
       {
         "question": "Na tela AV1025, qual a diferença entre os níveis de segurança 'Privado', 'Restrito' e 'Público'?",
-        "answer": "Os níveis de segurança na tela AV1025 definem quem pode acessar seus arquivos e pastas:"
+        "answer": "Os níveis de segurança na tela AV1025 definem quem pode acessar seus arquivos e pastas: Privado: Somente você (o usuário que criou) pode ver e acessar. Restrito: Somente você e os usuários específicos que você autorizar podem acessar. Público: Todos os usuários com acesso à tela AV1025 podem ver e acessar."
       },
       {
         "question": "Eu quero que apenas eu e mais dois colegas de equipe tenhamos acesso a uma pasta na tela AV1025. Como configuro essa permissão?",
@@ -1777,7 +1773,7 @@
       },
       {
         "question": "Depois de ajustar os parâmetros na tela AV513, qual é o passo para que as novas regras entrem em vigor?",
-        "answer": "Após realizar todas as parametrizações desejadas na tela AV513, basta clicar no ícone \"Atualizar\". O sistema salvará as novas configurações, que passarão a valer para as operações futuras."
+        "answer": "Após realizar todas as parametrizações desejadas na tela AV513, basta clicar no ícone \"Atualizar\". O sistema salvará as novas configurações, que passarão a valer para as operações futuras. ---> CONTABILIDADE"
       }
     ]
   },
@@ -1795,7 +1791,7 @@
       },
       {
         "question": "Cometi um erro em um lançamento manual. Como faço para corrigi-lo? E se eu tiver lançado na conta contábil errada?",
-        "answer": "As correções são feitas na tela CG518 – Manutenção dos Lançamentos Contábeis."
+        "answer": "As correções são feitas na tela CG518 – Manutenção dos Lançamentos Contábeis. Se o erro foi no Centro de Custo ou no valor, você pode corrigir a informação na linha, mudar a \"Ação\" para \"Alt\" (Alterar) e clicar em \"Atualizar\". Se o erro foi na conta contábil, você deve excluir o lançamento incorreto (usando a \"Ação\" \"Exc\") e, em seguida, fazer um novo lançamento manual na conta correta, usando a mesma sequência do lançamento excluído."
       },
       {
         "question": "Como identifico e corrijo os lotes contábeis que estão com diferenças (débito não bate com crédito)?",
@@ -1855,7 +1851,7 @@
     "faqs": [
       {
         "question": "Qual é o fluxo de processo no sistema para registrar um novo ativo e começar a creditar o ICMS através do CIAP?",
-        "answer": "O fluxo completo envolve três etapas principais:"
+        "answer": "O fluxo completo envolve três etapas principais: Primeiro, você deve cadastrar o bem e seus valores de ICMS na tela CG575 – Bens de Patrimônio para CIAP. Em seguida, na tela CG577 – NF de Bens de Patrimônio para CIAP, você deve vincular a nota fiscal de compra ao bem que foi cadastrado. Por fim, para gerar os lançamentos mensais das parcelas de crédito, você deve executar o relatório CGR018 – Carga do Valor do ICMS para CIAP."
       },
       {
         "question": "Quais são os passos para cadastrar um novo bem do ativo permanente na tela CG575?",
@@ -1885,7 +1881,7 @@
       },
       {
         "question": "No relatório CGR018, qual é a diferença crucial entre a opção 1 e a opção 2 no campo \"Obrigatório 7\"?",
-        "answer": "A diferença é fundamental para a execução do relatório CGR018:"
+        "answer": "A diferença é fundamental para a execução do relatório CGR018: Opção 1: Apenas gera o relatório para consulta, listando as informações sem fazer nenhuma alteração no sistema. É ideal para conferência. Opção 2: Além de gerar o relatório, ele também atualiza a base de dados da tela CG577, efetivando a carga do valor do ICMS."
       },
       {
         "question": "Preciso carregar o valor do ICMS de um novo bem para o CIAP. Como eu preencho e executo o relatório CGR018 para fazer isso?",
@@ -1903,7 +1899,7 @@
     "faqs": [
       {
         "question": "Quero automatizar um lançamento contábil de uma despesa recorrente, como um aluguel. Qual é o fluxo de processo no sistema?",
-        "answer": "O processo é feito em etapas:"
+        "answer": "O processo é feito em etapas: Primeiro, você precisa garantir que o tipo de despesa (ex: Aluguel) esteja cadastrado na tela GS512 com o código de item CDDESEXE. Em seguida, acesse a tela CG585 – Cadastro Apropriação Próximo Exercício para cadastrar os parâmetros da apropriação, como o fornecedor, as contas contábeis, o valor e o número de parcelas. Mensalmente, o relatório CGR071 – Apropriação do Próximo Exercício será executado para realizar a contabilização automática com base no que foi parametrizado."
       },
       {
         "question": "Onde eu cadastro um novo tipo de despesa para que ele apareça como opção na tela de apropriação (CG585)?",
@@ -2037,7 +2033,7 @@
       },
       {
         "question": "Na tela CG617, o que são as \"Rotinas de Validação\" e qual a diferença entre elas?",
-        "answer": "As \"Rotinas de Validação\" na tela CG617 definem como o sistema irá verificar se a nota fiscal está pendente. As principais são:"
+        "answer": "As \"Rotinas de Validação\" na tela CG617 definem como o sistema irá verificar se a nota fiscal está pendente. As principais são: Rotina Padrão: Verifica se existe um lançamento na conta e centro de custo específicos. Rotina Fornecedor: Verifica se existe qualquer lançamento de nota daquele fornecedor, independentemente da conta ou centro de custo. Rotina Via Código no Recebimento: Uma verificação mais ampla baseada em um código de controle."
       },
       {
         "question": "Como eu faço para consultar quais notas de fornecedores controlados estão pendentes de lançamento?",
@@ -2111,11 +2107,11 @@
       },
       {
         "question": "Qual é o fluxo de telas para configurar um novo rateio contábil?",
-        "answer": "A configuração de um rateio envolve um fluxo de três telas:"
+        "answer": "A configuração de um rateio envolve um fluxo de três telas: Primeiro, na tela CG523 – Contas para Rateio Contábil, você define a conta e o centro de custo de origem, além do tipo e da base de cálculo do rateio. Em seguida, na tela CG524 – Composição de Contas para Rateio, você detalha para quais centros de custo e contas de destino o valor será rateado, definindo o fator de cada um. Por fim, na tela CG525 – Informa Valores a Ratear, você insere o valor total que será objeto do rateio."
       },
       {
         "question": "Como eu defino a estrutura de um novo relatório de Demonstração Contábil, como um DRE ou Balanço?",
-        "answer": "A estrutura é criada em duas etapas:"
+        "answer": "A estrutura é criada em duas etapas: Primeiro, na tela CG528 – Cadastro de Demonstrações Contábeis, você cria as linhas do seu relatório, definindo o código, a descrição e a posição (linha e coluna) de cada uma. Depois, na tela CG529 – Composição Demonstrações Contábeis, você \"compõe\" cada linha, vinculando as contas contábeis que devem ser somadas ou subtraídas para chegar ao valor daquele item do relatório."
       },
       {
         "question": "Onde eu cadastro as informações do livro diário, como o número do livro e a quantidade de páginas?",
@@ -2189,7 +2185,7 @@
       },
       {
         "question": "Preciso gerar o DRE do último trimestre. Como eu preencho os parâmetros no relatório CGR012?",
-        "answer": "No relatório CGR012, você deve configurar os campos da seguinte forma:"
+        "answer": "No relatório CGR012, você deve configurar os campos da seguinte forma: No campo \"Obrigatório 1\", selecione a opção \"Demostrações de Resultado\". Nos campos \"Obrigatório 2\" (início) e \"Obrigatório 3\" (fim), informe o período correspondente ao último trimestre. Preencha os demais campos obrigatórios, como base contábil e moeda, e clique em \"Incluir\" para executar."
       },
       {
         "question": "Como faço para gerar um Balanço Patrimonial consolidado, incluindo os resultados das filiais, usando o relatório CGR012?",
@@ -2263,7 +2259,7 @@
       },
       {
         "question": "Ao criar a relação na tela CG533, qual a diferença entre marcar e não marcar o parâmetro \"Somente esse nível\"?",
-        "answer": "Essa é uma configuração importante na tela CG533:"
+        "answer": "Essa é uma configuração importante na tela CG533: Marcado: O usuário terá acesso apenas ao centro de custo específico que você informou (ex: centro de custo 4). Não Marcado: O usuário terá acesso ao centro de custo informado e a todos os seus níveis inferiores (ex: 41, 411, 41101, etc.)."
       },
       {
         "question": "Como eu defino que um usuário será o responsável por justificar os desvios de orçamento de um centro de custo?",
@@ -2411,7 +2407,7 @@
       },
       {
         "question": "Qual é a diferença na execução do relatório CGR051 para gerar os dados mensais versus os dados para o arquivo anual?",
-        "answer": "A diferença no relatório CGR051 está em um único parâmetro:"
+        "answer": "A diferença no relatório CGR051 está em um único parâmetro: Para a apuração mensal, você apenas informa o mês/ano no campo \"Obrigatório 1\". Para a geração do arquivo anual, além de informar o mês/ano, é obrigatório marcar o parâmetro no campo \"Opcional 4\". É esta marcação que diferencia a geração anual da mensal."
       }
     ]
   },
@@ -2465,7 +2461,7 @@
     "faqs": [
       {
         "question": "Qual é a sequência geral de relatórios e telas que devo seguir para realizar um inventário completo no sistema?",
-        "answer": "O processo de inventário segue uma sequência lógica de etapas:"
+        "answer": "O processo de inventário segue uma sequência lógica de etapas: Inicialização: Comece executando o relatório INR001 para preparar o sistema. Geração de Fichas: Gere as fichas de contagem em lote (INR002) ou individualmente (IN501 para produtos, IN502 para materiais). Listagem/Impressão: Imprima as fichas geradas usando o relatório INR003. Digitação das Contagens: Insira os resultados das contagens manuais nas telas IN503 (1ª), IN504 (2ª) e IN509 (3ª), ou use as telas de coletor (IN516, IN517, IN518). Apuração de Diferenças: Execute o relatório INR004 para listar as divergências até que o status do inventário seja \"Sem diferenças\". Ajustes Finais: Rode os relatórios ESR022 (para mercadorias faturadas e não despachadas) e INR005 (para salvar a posição do estoque). Atualização Final: Execute o relatório INR006 – Atualização de Inventário para efetivamente corrigir o estoque no sistema."
       },
       {
         "question": "Qual é o primeiro passo absoluto para iniciar um novo inventário e preparar o sistema?",
@@ -2473,7 +2469,7 @@
       },
       {
         "question": "Após a contagem física, em quais telas eu digito os resultados da primeira, segunda e, se necessário, terceira contagem manual?",
-        "answer": "A digitação das contagens manuais é feita em telas sequenciais:"
+        "answer": "A digitação das contagens manuais é feita em telas sequenciais: A primeira contagem é digitada na tela IN503 – Digitação da Primeira Contagem. A segunda contagem é digitada na tela IN504 – Digitação da Segunda Contagem. Se for necessária uma terceira contagem, ela deve ser digitada na tela IN509 – Digitação da Terceira Contagem."
       },
       {
         "question": "A primeira e a segunda contagem de um item deram resultados diferentes. O que acontece se a terceira contagem também for diferente das duas primeiras?",
@@ -2563,7 +2559,7 @@
       },
       {
         "question": "Na tela PA500, encontrei um recebimento que preciso imobilizar. Qual é o procedimento para capitalizar este bem?",
-        "answer": "Após localizar o recebimento na tela PA500, siga estes passos:"
+        "answer": "Após localizar o recebimento na tela PA500, siga estes passos: Marque a caixa de seleção ao lado do item que deseja imobilizar. Clique no ícone \"Incluir\". O sistema o levará para uma nova tela, onde você deverá preencher todos os dados do ativo, como a conta contábil, número do bem, taxas de depreciação, marca e modelo. Ao final, clique no ícone \"Imobilizar\" para concluir o processo."
       },
       {
         "question": "Depois que um bem já foi imobilizado, como posso consultar o lançamento de imobilização dele na tela PA500?",
@@ -2733,7 +2729,7 @@
     "faqs": [
       {
         "question": "Para que serve a tela CG1010 e quais tipos de relacionamentos posso criar nela?",
-        "answer": "A tela CG1010 - Relação Atividades x Contas Contábeis serve para criar parametrizações que vinculam contas contábeis e outros dados a atividades específicas do sistema. Nela, você pode criar dois tipos de relacionamentos:"
+        "answer": "A tela CG1010 - Relação Atividades x Contas Contábeis serve para criar parametrizações que vinculam contas contábeis e outros dados a atividades específicas do sistema. Nela, você pode criar dois tipos de relacionamentos: Para a atividade CG1003 (Conciliação Bancária), você relaciona um banco/agência/conta corrente a uma conta contábil. Para a atividade FN1009 (Contabilização de Duplicatas), você relaciona a conta contábil a um centro de custo e histórico."
       },
       {
         "question": "Preciso configurar a conta contábil de uma nova conta bancária para que a conciliação (CG1003) funcione corretamente. Como faço esse relacionamento na tela CG1010?",
@@ -2803,7 +2799,7 @@
       },
       {
         "question": "Na tela CG592, qual a diferença entre vincular a uma conta contábil existente e criar uma 'Conta Manual'?",
-        "answer": "A diferença está na origem do saldo:"
+        "answer": "A diferença está na origem do saldo: Ao informar uma conta contábil existente, o sistema buscará o saldo diretamente daquela conta na contabilidade. Ao marcar o parâmetro \"Conta Manual\" e usar um código de conta iniciado por 99900, você mesmo deverá informar o saldo manualmente, pois o sistema não o buscará da contabilidade."
       },
       {
         "question": "Como as parametrizações que eu faço na tela CG592 são utilizadas no restante do processo de geração da ECF?",
@@ -2901,7 +2897,7 @@
       },
       {
         "question": "As informações que eu cadastro na tela CG600 são usadas para gerar quais registros específicos no arquivo do SPED ECF?",
-        "answer": "As informações da tela CG600 são usadas para gerar os registros de abertura do arquivo:"
+        "answer": "As informações da tela CG600 são usadas para gerar os registros de abertura do arquivo: Os \"Parâmetros de Tributação\" geram o registro 0010 da ECF. Os \"Parâmetros Complementares\" geram o registro 0020 da ECF."
       },
       {
         "question": "Preciso configurar os parâmetros gerais da empresa para a entrega da ECF deste ano. Qual o procedimento na tela CG600?",
@@ -2949,7 +2945,7 @@
       },
       {
         "question": "Uma nota fiscal foi emitida com a CFOP errada. Qual tela eu devo verificar para corrigir a parametrização para futuras notas?",
-        "answer": "Se uma nota foi emitida com a CFOP incorreta, a causa provável é uma regra mal configurada ou ausente na tela AV521. Você deve acessar a AV521 e consultar as parametrizações existentes para identificar a regra que está sendo aplicada indevidamente ou criar uma nova regra, mais específica, para corrigir o fluxo para as próximas emissões."
+        "answer": "Se uma nota foi emitida com a CFOP incorreta, a causa provável é uma regra mal configurada ou ausente na tela AV521. Você deve acessar a AV521 e consultar as parametrizações existentes para identificar a regra que está sendo aplicada indevidamente ou criar uma nova regra, mais específica, para corrigir o fluxo para as próximas emissões. ---> CUSTOS"
       }
     ]
   },
@@ -2959,11 +2955,11 @@
     "faqs": [
       {
         "question": "Estou começando a configurar o módulo de Patrimônio. Qual é a sequência correta de cadastros que devo seguir?",
-        "answer": "A sequência lógica para a configuração do patrimônio é:"
+        "answer": "A sequência lógica para a configuração do patrimônio é: Primeiro, defina os parâmetros do exercício na tela PA503 – Parâmetros do Patrimônio. Em seguida, crie as \"categorias\" de bens na tela PA501 – Contas do Patrimônio, onde você define as contas contábeis e taxas de depreciação para cada tipo de ativo (ex: Móveis, Veículos, Maquinário). Depois, cadastre cada bem individualmente na tela PA502 – Bens de Patrimônio. Por fim, se necessário, registre a localização física de cada bem na tela PA505 - Planta de Localização dos bens."
       },
       {
         "question": "Qual a diferença entre a tela PA501 e a PA502? Devo cadastrar cada máquina individual na PA501?",
-        "answer": "Não. Essas telas têm funções diferentes e complementares:"
+        "answer": "Não. Essas telas têm funções diferentes e complementares: A tela PA501 – Contas do Patrimônio é usada para criar as categorias ou tipos de contas de ativos (ex: \"Computadores\", \"Veículos\"). É aqui que você define as regras contábeis e de depreciação para o grupo. A tela PA502 – Bens de Patrimônio é usada para cadastrar cada bem individualmente (ex: o computador com a tag nº 12345). Ao cadastrar o bem, você o vincula a uma das contas criadas na PA501."
       },
       {
         "question": "Acabamos de comprar um novo computador. Em qual tela eu cadastro este bem individualmente, com seu número de patrimônio (tag), nota fiscal e valor?",
@@ -3015,7 +3011,7 @@
       },
       {
         "question": "Estou configurando a apuração de custos pela primeira vez. Qual é a sequência de cadastros que devo seguir dentro da 'Manutenção da Rotina' na tela CI1000?",
-        "answer": "Dentro da \"Manutenção da Rotina\" na tela CI1000, a sequência lógica de cadastro é:"
+        "answer": "Dentro da \"Manutenção da Rotina\" na tela CI1000, a sequência lógica de cadastro é: Cadastro de Rotinas: Crie as rotinas de cálculo principais. Atrelar à Classificação ou Centro de Custo: Vincule cada rotina a uma conta contábil ou centro de custo. Cadastro de Totalizadores e Tipos de Lançamento: Crie os agrupadores e tipos que serão usados nos relatórios. Indicadores de Custo: Defina as regras detalhadas de como os movimentos de custo serão gerados. Totalizador por Linha de Produção: Vincule os totalizadores às linhas de produção correspondentes."
       },
       {
         "question": "Como eu vinculo uma 'Rotina de Cálculo' que criei a uma conta contábil (classificação) específica na tela CI1000?",
@@ -3027,7 +3023,7 @@
       },
       {
         "question": "Como as parametrizações que eu faço nas diferentes abas da tela CI1000 afetam os relatórios de custos?",
-        "answer": "As parametrizações na tela CI1000 são a base para a execução de uma sequência de relatórios de custos. Por exemplo:"
+        "answer": "As parametrizações na tela CI1000 são a base para a execução de uma sequência de relatórios de custos. Por exemplo: Os \"Indicadores de Custo\" são usados como base para o relatório CIR032. Os \"Totalizadores\" e o resultado do CIR033 são usados como base para o relatório CIR035, que faz a valorização do estoque."
       }
     ]
   },
@@ -3041,7 +3037,7 @@
       },
       {
         "question": "Como eu preencho os parâmetros para executar o relatório CIR032?",
-        "answer": "Para executar o relatório CIR032, você deve preencher os campos obrigatórios:"
+        "answer": "Para executar o relatório CIR032, você deve preencher os campos obrigatórios: No \"Obrigatório 1\", informe o mês e ano de referência. No \"Obrigatório 2\", informe a base de cálculo desejada. Nos campos \"Obrigatório 3\" e \"Obrigatório 4\", informe \"Sim\" ou \"Não\" para as opções de consistência e verificação de encerramento. Por fim, clique em \"Incluir\" para enviar o relatório para a fila de produção."
       },
       {
         "question": "As informações geradas pelo relatório CIR032 são usadas em qual outra etapa do processo de custos?",
@@ -3077,7 +3073,7 @@
       },
       {
         "question": "Como eu preencho os parâmetros para executar o relatório CIR035?",
-        "answer": "Para executar o relatório CIR035, você deve preencher os campos obrigatórios:"
+        "answer": "Para executar o relatório CIR035, você deve preencher os campos obrigatórios: No \"Obrigatório 1\", informe o mês e ano de referência. No \"Obrigatório 2\", defina a ordem de execução (por código ou referência). No \"Obrigatório 3\", informe a base para o cálculo. No \"Obrigatório 7\", informe se deseja agrupar o estoque por cor. Por fim, clique em \"Incluir\" para enviar o relatório para a fila de produção."
       },
       {
         "question": "É possível gerar um backup em Excel ao executar o relatório CIR035?",
@@ -3117,7 +3113,7 @@
       },
       {
         "question": "Na tela CI613, quais são as formas de carregar os dados dos produtos que estão em processo de produção?",
-        "answer": "Existem três formas de carregar os dados na tela CI613:"
+        "answer": "Existem três formas de carregar os dados na tela CI613: Automaticamente, executando o relatório ESR013 para verificar o estoque intermediário. Automaticamente, executando o relatório CTR022 para verificar as ordens de produção. Manualmente, digitando os valores diretamente na tela."
       },
       {
         "question": "Preciso informar manualmente a quantidade de um produto que ficou em elaboração no final do mês. Qual o procedimento na tela CI613?",
@@ -3179,7 +3175,7 @@
       },
       {
         "question": "É possível exportar os resultados da consulta da tela CI554 para o Excel?",
-        "answer": "Sim. Após realizar a sua consulta na tela CI554, você pode clicar no ícone \"Exportar CSV\" para gerar e baixar um arquivo no formato Excel com os dados da simulação."
+        "answer": "Sim. Após realizar a sua consulta na tela CI554, você pode clicar no ícone \"Exportar CSV\" para gerar e baixar um arquivo no formato Excel com os dados da simulação. ---> FINANCEIRO"
       }
     ]
   },
@@ -3201,7 +3197,7 @@
       },
       {
         "question": "Existe alguma situação em que eu precise desmembrar as duplicatas na tela FN545 antes de poder estornar um recebimento na tela SU525?",
-        "answer": "Sim. Conforme a nota no procedimento, em casos onde for necessário o desmembramento, você deve primeiro utilizar a tela FN545. Após realizar o desmembramento, o sistema permitirá que você estorne o recebimento original através da tela SU525."
+        "answer": "Sim. Conforme a nota no procedimento, em casos onde for necessário o desmembramento, você deve primeiro utilizar a tela FN545. Após realizar o desmembramento, o sistema permitirá que você estorne o recebimento original através da tela SU525. Acompanhamento da Liquidez Diária: https://helpsinge.lince.com.br/acompanhamento_da_liquidez_diaria_.html"
       },
       {
         "question": "Para que serve a tela FN725 - Acompanhamento Diário de Liquidez C.P?",
@@ -3265,7 +3261,7 @@
       },
       {
         "question": "Na tela FN733, qual a diferença entre consultar por 'Mês' e por 'Dia'?",
-        "answer": "A opção \"Tipo de Consulta\" na tela FN733 altera a forma como os dados são agrupados:"
+        "answer": "A opção \"Tipo de Consulta\" na tela FN733 altera a forma como os dados são agrupados: Mês: Mostra os valores totais acumulados para cada situação (aprovado, reprovado, etc.) dentro do período consultado. Dia: Mostra os mesmos totais, mas quebrados dia a dia, permitindo uma análise mais detalhada da movimentação diária."
       },
       {
         "question": "A consulta na tela FN733 me mostrou o valor total de pedidos aprovados no mês. Como posso ver a lista de quais pedidos compõem esse valor total?",
@@ -3277,7 +3273,7 @@
       },
       {
         "question": "É possível exportar os dados da análise de pedidos da tela FN733 para o Excel?",
-        "answer": "Sim. Após realizar sua consulta na tela FN733, você pode clicar no ícone \"Exportar CSV\" para gerar e baixar um arquivo no formato Excel com os dados que estão sendo exibidos."
+        "answer": "Sim. Após realizar sua consulta na tela FN733, você pode clicar no ícone \"Exportar CSV\" para gerar e baixar um arquivo no formato Excel com os dados que estão sendo exibidos. Autorização de Pagamentos: P: O que é uma Autorização de Pagamentos (AP) e qual é o fluxo dela após a emissão?"
       },
       {
         "question": "Preciso gerar uma AP para o pagamento de uma transportadora. Qual relatório devo usar e como preencho os parâmetros?",
@@ -3403,7 +3399,7 @@
     "faqs": [
       {
         "question": "Qual é o fluxo de processo para cadastrar um novo banco no sistema e configurar a cobrança eletrônica para ele?",
-        "answer": "O processo é feito em duas etapas:"
+        "answer": "O processo é feito em duas etapas: Primeiro, você deve cadastrar os dados gerais da instituição na tela FN503 – Cadastro Banco/Agência, incluindo as contas contábeis correspondentes. Em seguida, acesse a tela FN539 – Parâmetros Cobrança Eletrônica para definir os parâmetros técnicos da cobrança, como os códigos de transação e carteira fornecidos pelo banco."
       },
       {
         "question": "Na tela FN503, o que são as \"Contas Contábeis\" e por que são obrigatórias?",
@@ -3429,7 +3425,7 @@
     "faqs": [
       {
         "question": "Qual é o fluxo de processo no sistema para cadastrar um novo contrato de empréstimo e depois provisionar os juros mensalmente?",
-        "answer": "O processo é realizado em duas telas principais:"
+        "answer": "O processo é realizado em duas telas principais: Primeiro, você deve cadastrar todos os dados do contrato, como valor, prazo e parcelas, na tela FN732 – Cadastro de Empréstimos e Financiamentos. Depois, para o acompanhamento diário e a contabilização da provisão de juros, você deve utilizar a tela CG1005 – Empréstimos e Financiamentos."
       },
       {
         "question": "Preciso cadastrar um novo contrato de financiamento. Qual o procedimento completo na tela FN732?",
@@ -3437,7 +3433,7 @@
       },
       {
         "question": "No cadastro do contrato na tela FN732, qual a diferença entre apenas informar a carência e marcar o parâmetro 'Carência com Principal e Juros'?",
-        "answer": "A diferença é fundamental para o cálculo dos juros:"
+        "answer": "A diferença é fundamental para o cálculo dos juros: Se você apenas informar a carência, o pagamento do principal será adiado, mas os juros continuarão a incidir durante esse período. Se você marcar o parâmetro \"Carência com Principal e Juros\", o sistema entenderá que não haverá incidência de juros durante o período de carência informado."
       },
       {
         "question": "Após cadastrar o contrato, como eu faço para consultar e contabilizar a provisão de juros do mês na tela CG1005?",
@@ -3533,7 +3529,7 @@
       },
       {
         "question": "Preciso enviar ao banco as alterações de vencimento de algumas duplicatas. Qual é o procedimento na tela FN800?",
-        "answer": "Na tela FN800, siga estes passos:"
+        "answer": "Na tela FN800, siga estes passos: Selecione o \"Tipo de Cobrança\" correspondente à API do banco (ex: \"API alteração de título (Itaú)\"). Selecione a \"Situação\" como \"Aguardando envio\". Clique em \"Consultar\" para listar as duplicatas pendentes. Marque a caixa de seleção na coluna \"Enviar\" para cada instrução que deseja transmitir. Por fim, clique no ícone \"Atualizar\" para realizar o envio."
       },
       {
         "question": "Depois de enviar as instruções pela tela FN800, como eu verifico se elas foram processadas com sucesso pelo banco ou se houve algum erro?",
@@ -3555,7 +3551,7 @@
       },
       {
         "question": "Quais tipos de comissão a tela FN532 exibe?",
-        "answer": "A tela FN532 exibe a quebra da comissão em duas categorias principais:"
+        "answer": "A tela FN532 exibe a quebra da comissão em duas categorias principais: Comissão sobre Faturamento Comissão sobre pagamento de duplicata Dentro de cada categoria, ela detalha o percentual correspondente ao Representante, Representante Intermediário, Supervisor, Gerente e Vendedor."
       }
     ]
   },
@@ -3589,7 +3585,7 @@
       },
       {
         "question": "O cliente não recebeu o boleto. Como posso visualizá-lo ou reenviá-lo pela tela FN1024?",
-        "answer": "Na tela FN1024, na linha da duplicata desejada, você tem duas opções:"
+        "answer": "Na tela FN1024, na linha da duplicata desejada, você tem duas opções: Clique no ícone \"Visualizar Boletos\" para fazer o download do boleto em PDF. Clique no ícone \"Informar o Reenvio de Boleto\" para encaminhá-lo diretamente para o e-mail cadastrado do cliente."
       }
     ]
   },
@@ -3695,7 +3691,7 @@
       },
       {
         "question": "O cliente não recebeu o boleto. Como posso visualizá-lo ou reenviá-lo pela tela FN1024?",
-        "answer": "Na tela FN1024, na linha da duplicata desejada, você tem duas opções:"
+        "answer": "Na tela FN1024, na linha da duplicata desejada, você tem duas opções: Clique no ícone \"Visualizar Boletos\" para fazer o download do boleto em PDF. Dentro do ícone \"Gerar Documentos\", clique em \"Enviar Boletos\" para encaminhá-lo diretamente para o e-mail cadastrado do cliente."
       }
     ]
   },
@@ -3765,7 +3761,7 @@
       },
       {
         "question": "Preciso consultar todas as duplicatas a pagar para 'Transportadoras' que vencem no próximo mês. Como faço essa busca na tela FN1050?",
-        "answer": "Na tela FN1050, você deve combinar os filtros:"
+        "answer": "Na tela FN1050, você deve combinar os filtros: No campo \"Tipo de favorecido\", selecione \"Transportadora\". Nos campos de \"Data Vencimento\", defina o período correspondente ao próximo mês. Em seguida, clique no ícone \"Consultar\"."
       },
       {
         "question": "Após consultar um fornecedor na tela FN1050, o que o ícone 'Verifica Fluxo de Caixa' me mostra?",
@@ -3843,7 +3839,7 @@
       },
       {
         "question": "Preciso configurar o fluxo para um novo colaborador, onde o gestor 'A' e depois o diretor 'B' devem aprovar. Qual o procedimento na tela FN667?",
-        "answer": "Na tela FN667, primeiro informe o \"Usuário\" (o novo colaborador) e selecione o \"Tipo de Aprovação\" (ex: Viagem). Em seguida, na grade de aprovadores:"
+        "answer": "Na tela FN667, primeiro informe o \"Usuário\" (o novo colaborador) e selecione o \"Tipo de Aprovação\" (ex: Viagem). Em seguida, na grade de aprovadores: Na primeira linha, informe \"1\" no campo \"Sequência\", \"Inc\" em \"Ação\" e o login do gestor 'A' em \"Usuário Aprovação\". Na segunda linha, informe \"2\" em \"Sequência\", \"Inc\" em \"Ação\" e o login do diretor 'B' em \"Usuário Aprovação\". Por fim, clique em \"Atualizar\" para salvar o fluxo."
       },
       {
         "question": "Eu preciso criar um fluxo para aprovação da 'Viagem' e outro para aprovação do 'Relatório' do mesmo colaborador? Ou é um fluxo só?",
@@ -3861,7 +3857,7 @@
     "faqs": [
       {
         "question": "Preciso cadastrar uma nova viagem. Qual tela devo usar para uma viagem nacional e qual para uma internacional?",
-        "answer": "Você deve usar telas diferentes para cada tipo de viagem:"
+        "answer": "Você deve usar telas diferentes para cada tipo de viagem: Para viagens internacionais, utilize a tela FN668 – Cadastro de Viagem Internacional. Para viagens nacionais, utilize a tela FN698 – Cadastro de Viagem Nacional."
       },
       {
         "question": "Qual é o procedimento completo para cadastrar uma nova viagem e submetê-la para aprovação?",
@@ -3909,7 +3905,7 @@
       },
       {
         "question": "Preciso criar um novo relatório de reembolso. Qual é o passo a passo completo na tela FN722?",
-        "answer": "O processo na tela FN722 segue estas etapas:"
+        "answer": "O processo na tela FN722 segue estas etapas: Informe seu \"Cartão ponto\" e clique em \"Consultar\". Busque e selecione seu gestor no campo \"Usuário (Autorizante)\". Preencha o motivo, as datas e seus dados bancários para o reembolso. Adicione cada despesa, informando data, local, código e descrição. Anexe os comprovantes clicando em \"Salvar Anexos\". Clique em \"Atualizar\" para salvar o rascunho. Por fim, clique em \"Aprovar\" para submeter o relatório ao fluxo de aprovação."
       },
       {
         "question": "Como eu faço para registrar e calcular o reembolso de despesas com quilometragem na tela FN722?",
@@ -3947,7 +3943,7 @@
       },
       {
         "question": "Fui de carro visitar um cliente. Como eu registro o trajeto na tela FN670 para que o sistema calcule o reembolso da quilometragem?",
-        "answer": "O cálculo é feito em duas abas na tela FN670:"
+        "answer": "O cálculo é feito em duas abas na tela FN670: Primeiro, vá para a aba \"Visitas\", informe o código do cliente visitado e clique em \"Atualizar\". Em seguida, clique no ícone \"Quilometragem\". Na janela que se abre, informe o seu endereço de partida, clique em \"Gerar\" para o sistema calcular o percurso e depois em \"Salvar\". O valor do reembolso será calculado e salvo automaticamente."
       },
       {
         "question": "Depois de preencher todas as minhas despesas e justificativas na tela FN670, qual é o último passo para enviar o relatório para aprovação?",
@@ -4001,7 +3997,7 @@
     "faqs": [
       {
         "question": "Preciso fazer um lançamento de débito na conta de um representante. Qual é o fluxo de processo completo para isso?",
-        "answer": "O processo é realizado em duas etapas:"
+        "answer": "O processo é realizado em duas etapas: Primeiro, você deve gerar um número de controle executando o relatório FNR077 – Aviso de Lançamento. Com o número do aviso gerado, acesse a tela FN616 – Inclusão Estorno de Aviso de Lançamento para incluir os detalhes do lançamento, como valor, tipo e conta contábil."
       },
       {
         "question": "Antes de lançar o débito na tela FN616, o que eu preciso fazer primeiro?",
@@ -4131,7 +4127,7 @@
       },
       {
         "question": "Na tela FG2005, identifiquei um desvio na inadimplência. É possível registrar uma ação ou um plano de cobrança diretamente na tela?",
-        "answer": "Sim. A tela FG2005 possui o ícone \"Incluir Registros de Ações\". Ao clicar nele, uma nova guia se abrirá para que você possa registrar uma ação corretiva para o desvio encontrado, criando um histórico das providências tomadas."
+        "answer": "Sim. A tela FG2005 possui o ícone \"Incluir Registros de Ações\". Ao clicar nele, uma nova guia se abrirá para que você possa registrar uma ação corretiva para o desvio encontrado, criando um histórico das providências tomadas. ---> INTERNACIONALIZAÇÃO"
       }
     ]
   },
@@ -4175,7 +4171,7 @@
       },
       {
         "question": "Qual é o procedimento completo para criar um novo pedido de importação de peças na tela IP522?",
-        "answer": "O processo na tela IP522 é feito em duas etapas:"
+        "answer": "O processo na tela IP522 é feito em duas etapas: Criação do Pedido (Cabeçalho): Primeiro, preencha os dados gerais, como o \"Tipo de pedido\", \"Previsão de chegada\", \"Centro de custo\" e \"Fornecedor\". Em seguida, clique no ícone \"Incluir\". O sistema criará o pedido e atribuirá um número a ele. Inclusão dos Materiais: Com o pedido já criado, adicione cada peça na grade de itens, informando a \"Sequência\", a \"Ação\" como \"Inc\", a descrição do \"Material\" e a \"QT. Pedida\". Após preencher os itens, clique no ícone \"Atualizar\" para salvá-los no pedido."
       },
       {
         "question": "Depois que eu crio o pedido na tela IP522, como o setor de importação dá continuidade para registrar a PROFORMA?",
@@ -4183,7 +4179,7 @@
       },
       {
         "question": "Meu pedido de importação está relacionado a uma Proposta de Investimento e a uma Ordem de Serviço de manutenção. É possível informar esses vínculos na tela IP522?",
-        "answer": "Sim. A tela IP522 permite esses vínculos:"
+        "answer": "Sim. A tela IP522 permite esses vínculos: No cabeçalho do pedido, você pode informar o número da \"Proposta de Investimento\". Ao incluir os materiais na grade de itens, você pode informar o número da ordem de serviço no campo \"OS destino\". ---> GESTÃO DA PRODUÇÃO"
       }
     ]
   },
@@ -4231,7 +4227,7 @@
       },
       {
         "question": "Preciso cadastrar um novo produto. Quais são as principais categorias de informação que preciso preencher na tela CP501?",
-        "answer": "Na tela CP501, o cadastro é bem completo e abrange diversas áreas. As principais categorias de informação que você precisará preencher são:"
+        "answer": "Na tela CP501, o cadastro é bem completo e abrange diversas áreas. As principais categorias de informação que você precisará preencher são: Identificação: Código, Descrição, Unidade de Medida. Classificação Comercial: Categoria, Linha de Produção, Segmento de Mercado. Dados Fiscais: Código de Tributação, NCM, Código CEST e alíquotas de impostos como IPI e ICMS. Dados Logísticos: Pesos (líquido e bruto), dimensões e informações de embalagem. Parâmetros de Venda: Múltiplo de venda e Múltiplo para Venda de Funcionário (VF)."
       },
       {
         "question": "Durante o cadastro de um produto na tela CP501, não sei o código CEST. O sistema me ajuda a encontrar?",
@@ -4239,7 +4235,7 @@
       },
       {
         "question": "Na tela CP501, qual a diferença entre os campos 'Múltiplo de venda' e 'Múltiplo VF'?",
-        "answer": "Na tela CP501:"
+        "answer": "Na tela CP501: Múltiplo de venda: Refere-se à quantidade mínima ou ao fator de multiplicação para a venda comercial normal do produto. Múltiplo VF: Refere-se ao múltiplo de venda específico para a Venda de Funcionários, que pode ter uma condição diferente."
       },
       {
         "question": "Depois que eu cadastrei todas as informações do produto na tela CP501, como faço para incluir a foto dele?",
@@ -4261,7 +4257,7 @@
       },
       {
         "question": "O que significam as colunas 'Previsto', 'Realizado' e 'Desvio' na tela CP536?",
-        "answer": "Na tela CP536, essas colunas mostram a comparação do desempenho diário e acumulado:"
+        "answer": "Na tela CP536, essas colunas mostram a comparação do desempenho diário e acumulado: Previsto: A meta que foi planejada para o período. Realizado: O que foi efetivamente produzido no período. Desvio: A diferença (positiva ou negativa) entre o previsto e o realizado."
       },
       {
         "question": "Preciso de uma visão rápida das trocas de molde que aconteceram hoje. Onde encontro essa informação na tela CP536?",
@@ -4313,7 +4309,7 @@
       },
       {
         "question": "Preciso registrar os resultados de um ensaio de pesagem. Qual é o procedimento na tela CT750?",
-        "answer": "Na tela CT750, siga estes passos:"
+        "answer": "Na tela CT750, siga estes passos: Selecione a \"Balança\" e, em seguida, o \"Setor\" e a \"Máquina\" correspondentes. Informe o código do \"Produto\", o seu \"Cartão Ponto\" e o \"Turno\". Posicione as amostras sobre a balança; o sistema registrará o peso automaticamente quando estabilizado. Após a pesagem de todas as amostras, clique no ícone \"Atualizar\" para salvar o resultado do teste."
       },
       {
         "question": "Depois de registrar vários testes, onde eu posso consultar o histórico desses apontamentos?",
@@ -4347,7 +4343,7 @@
       },
       {
         "question": "O que acontece se eu excluir a única balança que está cadastrada para um determinado 'Código de Atividade' na tela CT752?",
-        "answer": "Este é um ponto de atenção importante. Se você remover o único periférico (balança) de um \"Código de Atividade\", o cadastro geral para aquela atividade também será removido. Se precisar usá-lo no futuro, será necessário realizar um novo cadastro do zero."
+        "answer": "Este é um ponto de atenção importante. Se você remover o único periférico (balança) de um \"Código de Atividade\", o cadastro geral para aquela atividade também será removido. Se precisar usá-lo no futuro, será necessário realizar um novo cadastro do zero. ---> MANUTENÇÃO"
       }
     ]
   },
@@ -4361,7 +4357,7 @@
       },
       {
         "question": "Preciso criar um novo plano de manutenção semanal para um grupo de máquinas. Qual é o procedimento completo na tela MN502?",
-        "answer": "O processo na tela MN502 é feito em duas etapas:"
+        "answer": "O processo na tela MN502 é feito em duas etapas: Criar o Fluxo: Primeiro, preencha os dados principais do plano, como a \"Classificação Manutenção\" (grupo de máquinas), a \"Descrição\" (ex: Intervenção Semanal), o \"Grupo Responsável\" e a \"Periodicidade\". Clique em \"Incluir\" para salvar. Detalhar os Serviços: Após criar o fluxo, na seção \"Serviços a Executar\", descreva cada tarefa de manutenção que deve ser realizada. Depois de preencher a lista de serviços, clique no ícone \"Atualizar Serviços\" para salvá-los dentro do fluxo."
       },
       {
         "question": "Na tela MN502, para que serve o campo 'Fluxos relacionados'? Como eu o utilizo?",
@@ -4391,7 +4387,7 @@
       },
       {
         "question": "Como eu defino que um usuário específico é o responsável por um grupo de manutenção na tela MN552?",
-        "answer": "Ao cadastrar ou editar o vínculo de um usuário na tela MN552, basta marcar o parâmetro \"Responsável\". Isso indicará que aquele usuário é o responsável pelo grupo de manutenção selecionado."
+        "answer": "Ao cadastrar ou editar o vínculo de um usuário na tela MN552, basta marcar o parâmetro \"Responsável\". Isso indicará que aquele usuário é o responsável pelo grupo de manutenção selecionado. ---> MARKETING"
       }
     ]
   },
@@ -4413,7 +4409,7 @@
       },
       {
         "question": "Eu já cadastrei um banner na tela MK584, mas ele ainda não está aparecendo no aplicativo. O que falta fazer?",
-        "answer": "O processo na tela MK584 tem duas etapas. Após cadastrar o banner, você precisa ir para a seção \"Controle de Banners no LoveCírculo\". Lá, você deve:"
+        "answer": "O processo na tela MK584 tem duas etapas. Após cadastrar o banner, você precisa ir para a seção \"Controle de Banners no LoveCírculo\". Lá, você deve: Localizar o banner e clicar no ícone de atualizar ao lado dele. Definir a data de início e término e marcar a opção \"ATIVO\" como \"SIM\". Clicar em \"ATUALIZAR\" para salvar essa configuração. Por fim, o passo mais importante: clicar no botão \"Atualizar no APP\" no topo da página para enviar todas as alterações para o aplicativo."
       },
       {
         "question": "Como eu programo um banner para ficar ativo no aplicativo apenas durante o final de semana na tela MK584?",
@@ -4465,7 +4461,7 @@
       },
       {
         "question": "Não me lembro do código de uma orientadora, apenas de parte do nome dela. Como posso encontrá-la na tela MK501?",
-        "answer": "Na tela MK501, no campo \"Consultar Por\", selecione a opção \"Nome\". Digite a parte do nome que você se lembra no campo \"Nome\" e clique no ícone de \"Listar\" (com o desenho de uma lista). O sistema exibirá todas as orientadoras cujos nomes correspondem à sua busca."
+        "answer": "Na tela MK501, no campo \"Consultar Por\", selecione a opção \"Nome\". Digite a parte do nome que você se lembra no campo \"Nome\" e clique no ícone de \"Listar\" (com o desenho de uma lista). O sistema exibirá todas as orientadoras cujos nomes correspondem à sua busca. ---> RH"
       }
     ]
   },
@@ -4479,7 +4475,7 @@
       },
       {
         "question": "Na tela AR501, qual a diferença entre marcar 'Horário Cheio' como 'Sim' ou 'Não'?",
-        "answer": "Essa configuração na tela AR501 define a flexibilidade da reserva:"
+        "answer": "Essa configuração na tela AR501 define a flexibilidade da reserva: Sim: O usuário só poderá reservar o bloco completo de horas definido no campo \"Duração em horas da locação\". Não: O usuário poderá reservar frações do tempo total, permitindo maior flexibilidade nos agendamentos que serão configurados na tela AR502."
       },
       {
         "question": "Como eu defino os valores de locação diferentes para sócios e não sócios na tela AR501?",
@@ -4631,7 +4627,7 @@
     "faqs": [
       {
         "question": "Preciso cadastrar um novo turno de trabalho no sistema. Qual é a sequência correta de abas que devo seguir na tela RH750?",
-        "answer": "Conforme a nota de atenção no procedimento, para garantir o correto funcionamento, a sequência recomendada na tela RH750 é:"
+        "answer": "Conforme a nota de atenção no procedimento, para garantir o correto funcionamento, a sequência recomendada na tela RH750 é: Primeiro, cadastre as informações gerais na Aba Cadastro de Turno. Em seguida, detalhe os horários, tolerâncias e a rotina semanal na Aba Cadastro de Horário. Por fim, acesse a Aba Jornada para gerar o calendário com base nas configurações que você acabou de criar."
       },
       {
         "question": "Como eu cadastro o horário detalhado de um turno na tela RH750, incluindo os horários de entrada, saída e as tolerâncias de atraso?",
@@ -4705,7 +4701,7 @@
       },
       {
         "question": "Preciso cadastrar um novo usuário no estacionamento. Qual é o procedimento completo na tela RH661, incluindo a adição do veículo?",
-        "answer": "Na tela RH661, siga estes passos:"
+        "answer": "Na tela RH661, siga estes passos: Informe o \"Nro. Controle\" e a \"Nro. Senha\" que serão entregues ao colaborador. Preencha o \"Cartão Ponto\" do funcionário e a \"Data Entrega\" do controle. Na aba \"Veiculos\", adicione uma linha, preencha a \"Placa\", selecione o \"Tipo de Veículo\", adicione a descrição e marque a \"Ação\" como \"INC\". Por fim, clique no ícone \"Incluir\" no topo da página para salvar todo o cadastro."
       },
       {
         "question": "Depois que eu cadastro um funcionário na tela RH661, como eu gero o termo de consentimento para ele assinar?",
@@ -4717,7 +4713,7 @@
       },
       {
         "question": "Um funcionário foi desligado. Como eu removo completamente o acesso e o cadastro dele do estacionamento?",
-        "answer": "Para remover o cadastro na tela RH661, primeiro localize o registro do funcionário utilizando um dos filtros de consulta (Controle, Cartão, etc.). Com o cadastro carregado em tela, basta clicar no ícone \"Excluir\" no topo da página para remover todas as informações permanentemente."
+        "answer": "Para remover o cadastro na tela RH661, primeiro localize o registro do funcionário utilizando um dos filtros de consulta (Controle, Cartão, etc.). Com o cadastro carregado em tela, basta clicar no ícone \"Excluir\" no topo da página para remover todas as informações permanentemente. ---> SUPRIMENTOS"
       }
     ]
   },
@@ -4823,7 +4819,7 @@
       },
       {
         "question": "Ao analisar uma ficha na tela SU711, como eu faço para aprovar, aprovar com restrição ou reprovar a inspeção?",
-        "answer": "Na tela SU711, na linha da ficha que está analisando, você encontrará os ícones de parecer:"
+        "answer": "Na tela SU711, na linha da ficha que está analisando, você encontrará os ícones de parecer: Para aprovar, clique no ícone \"Aprovar\". Para aprovar com restrição, clique no ícone \"Aprovar com Restrição\" e informe a justificativa. Para reprovar, clique no ícone \"Reprovar\" e informe a justificativa."
       },
       {
         "question": "Preciso consultar a DANFE de uma nota fiscal que está em inspeção. É possível fazer isso diretamente pela tela SU711?",
@@ -4849,7 +4845,7 @@
       },
       {
         "question": "Queremos que, para um fornecedor específico e um determinado material, a ficha de inspeção seja gerada apenas a cada 5 recebimentos. Qual o procedimento na tela SU810?",
-        "answer": "Na tela SU810, você deve preencher os seguintes campos:"
+        "answer": "Na tela SU810, você deve preencher os seguintes campos: Informe o \"Código do Fornecedor\". Selecione a \"Origem\" como \"Material\". Informe o código do \"Material\". No campo \"Quantidade\", digite \"5\". Certifique-se de que a \"Ação\" está como \"Inc\" (Incluir) e clique em \"Atualizar\"."
       },
       {
         "question": "Na tela SU810, não sei o código do fornecedor ou do material. Como posso encontrá-los?",
@@ -4887,7 +4883,7 @@
       },
       {
         "question": "Criei uma solicitação de compra por engano. Posso excluí-la? Existe alguma restrição?",
-        "answer": "Sim, você pode excluí-la, mas com uma restrição importante. A exclusão na tela SU511 só é possível para o próprio solicitante e apenas se a solicitação ainda não tiver iniciado a fase de aprovação. Para excluir, consulte a solicitação, mude a \"Ação\" para \"Exc\" e clique em \"Atualizar\"."
+        "answer": "Sim, você pode excluí-la, mas com uma restrição importante. A exclusão na tela SU511 só é possível para o próprio solicitante e apenas se a solicitação ainda não tiver iniciado a fase de aprovação. Para excluir, consulte a solicitação, mude a \"Ação\" para \"Exc\" e clique em \"Atualizar\". ---> TRANSPORTE/LOGÍSTICA"
       }
     ]
   },
@@ -4931,7 +4927,7 @@
       },
       {
         "question": "Tentei liberar um periférico na tela CP720, mas o sistema exibiu uma mensagem de erro. Quais podem ser as causas?",
-        "answer": "A liberação de um periférico na tela CP720 possui duas regras principais que precisam ser atendidas. O erro pode ocorrer por um dos seguintes motivos:"
+        "answer": "A liberação de um periférico na tela CP720 possui duas regras principais que precisam ser atendidas. O erro pode ocorrer por um dos seguintes motivos: O periférico não está com o status de \"fechado no estoque\". Não existe uma ordem de produção atrelada ao periférico (processo realizado na tela CP505)."
       },
       {
         "question": "Liberei um periférico por engano. Como eu desfaço a liberação na tela CP720?",
